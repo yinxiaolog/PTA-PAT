@@ -19,7 +19,6 @@ public class BoysVsGirls {
         }
 
         @Override
-
         public String toString() {
             return name + " " + id;
         }
