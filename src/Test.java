@@ -19,9 +19,13 @@ public class Test{
         return h + m + s;
     }
     public static void main(String[] args) {
-        String s = "1234";
-        System.out.println(s);
-        System.out.println(s.replace('1','@'));
-        System.out.println(s);
+        StringBuilder ans = new StringBuilder("000123");
+        while (ans.toString().charAt(0) == '0') {
+            ans = ans.replace(0,1,"");
+            if (ans.toString().charAt(0) != '0') {
+                break;
+            }
+        }
+        System.out.println(ans);
     }
 }
