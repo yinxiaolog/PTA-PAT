@@ -20,28 +20,24 @@ public class IsItABinarySearchTree {
         if (!isMirror) {
             for (i = start + 1; i <= end; i++) {
                 if (preOrder[i] >= preOrder[start]) {
-                    //i--;
                     break;
                 }
             }
 
             for (j = end; j > start; j--) {
                 if (preOrder[j] < preOrder[start]) {
-                    //j++;
                     break;
                 }
             }
         } else {
             for (i = start + 1; i <= end; i++) {
                 if (preOrder[i] < preOrder[start]) {
-                    //i--;
                     break;
                 }
             }
 
             for (j = end; j > start; j--) {
                 if (preOrder[j] >= preOrder[start]) {
-                    //j++;
                     break;
                 }
             }
