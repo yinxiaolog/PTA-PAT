@@ -9,13 +9,10 @@ public class SetSimilarity {
 
     private static String similarity(Set<Integer> setA, Set<Integer> setB) {
         Set<Integer> intersection = new HashSet<>();
-        Set<Integer> union = new HashSet<>();
         intersection.addAll(setA);
         intersection.retainAll(setB);
-        union.addAll(setA);
-        union.addAll(setB);
 
-        double rate = (double)intersection.size() / (double)union.size() * 100;
+        double rate = (double)intersection.size() / (double)(setA.size() + setB.size() - intersection.size()) * 100;
         return String.format("%.1f", rate) + '%';
     }
     public static void main(String[] args) throws IOException {
