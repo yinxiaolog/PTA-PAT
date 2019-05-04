@@ -113,16 +113,22 @@ public class PATJudge {
         int N = Read.nextInt();
         int K = Read.nextInt();
         int M = Read.nextInt();
+        //System.out.println(N + " " + K + " " + M);
         problem = new int[K];
         for (int i = 0; i < K; i++) {
             problem[i] = Read.nextInt();
         }
 
+        //System.out.println(Arrays.toString(problem));
+
         Map<Integer, Student> studentMap = new HashMap<>(N);
         for (int i = 0; i < M; i++) {
+            System.out.println(i);
             int userId = Read.nextInt();
             int problemId = Read.nextInt() - 1;
             int score = Read.nextInt();
+
+            //System.out.println(userId + " " + problemId + " " + score);
 
             Student tmpStudnet = studentMap.get(userId);
             if (tmpStudnet == null) {
