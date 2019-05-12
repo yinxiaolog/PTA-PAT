@@ -57,6 +57,9 @@ public class DeduplicationOnALinkedList {
             }
 
             marked[Math.abs(node.key)] = true;
+            if (map.get(node.next) == null) {
+                break;
+            }
             map.remove(head);
             head = node.next;
         }
