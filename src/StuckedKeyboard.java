@@ -45,7 +45,7 @@ public class StuckedKeyboard {
                 str = replace(str, entry.getKey(), K);
             }
         }
-        System.out.println(map);
+
         System.out.println(stuchedKey);
         System.out.println(str);
     }
