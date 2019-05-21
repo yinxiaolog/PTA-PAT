@@ -9,7 +9,6 @@ import java.util.TreeSet;
 
 public class DamnSingle {
     private static Map<Integer, Integer> couples1 = new HashMap<>();
-    private static Map<Integer, Integer> couples2 = new HashMap<>();
     private static Set<Integer> set = new HashSet<>();
 
     private static Set<String> solve() {
