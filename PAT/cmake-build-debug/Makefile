@@ -111,44 +111,1044 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named PAT
+# Target rules for targets named 1087_all_roads_lead_to_rome
 
 # Build rule for target.
-PAT: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 PAT
-.PHONY : PAT
+1087_all_roads_lead_to_rome: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1087_all_roads_lead_to_rome
+.PHONY : 1087_all_roads_lead_to_rome
 
 # fast build rule for target.
-PAT/fast:
-	$(MAKE) -f CMakeFiles/PAT.dir/build.make CMakeFiles/PAT.dir/build
-.PHONY : PAT/fast
+1087_all_roads_lead_to_rome/fast:
+	$(MAKE) -f CMakeFiles/1087_all_roads_lead_to_rome.dir/build.make CMakeFiles/1087_all_roads_lead_to_rome.dir/build
+.PHONY : 1087_all_roads_lead_to_rome/fast
 
-main.o: main.cpp.o
+#=============================================================================
+# Target rules for targets named 1072_gas_station
 
-.PHONY : main.o
+# Build rule for target.
+1072_gas_station: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1072_gas_station
+.PHONY : 1072_gas_station
+
+# fast build rule for target.
+1072_gas_station/fast:
+	$(MAKE) -f CMakeFiles/1072_gas_station.dir/build.make CMakeFiles/1072_gas_station.dir/build
+.PHONY : 1072_gas_station/fast
+
+#=============================================================================
+# Target rules for targets named 1030_travel_plan
+
+# Build rule for target.
+1030_travel_plan: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1030_travel_plan
+.PHONY : 1030_travel_plan
+
+# fast build rule for target.
+1030_travel_plan/fast:
+	$(MAKE) -f CMakeFiles/1030_travel_plan.dir/build.make CMakeFiles/1030_travel_plan.dir/build
+.PHONY : 1030_travel_plan/fast
+
+#=============================================================================
+# Target rules for targets named 1079_total_sales_of_supply_chain
+
+# Build rule for target.
+1079_total_sales_of_supply_chain: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1079_total_sales_of_supply_chain
+.PHONY : 1079_total_sales_of_supply_chain
+
+# fast build rule for target.
+1079_total_sales_of_supply_chain/fast:
+	$(MAKE) -f CMakeFiles/1079_total_sales_of_supply_chain.dir/build.make CMakeFiles/1079_total_sales_of_supply_chain.dir/build
+.PHONY : 1079_total_sales_of_supply_chain/fast
+
+#=============================================================================
+# Target rules for targets named 1094_the_largest_generation.cc
+
+# Build rule for target.
+1094_the_largest_generation.cc: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1094_the_largest_generation.cc
+.PHONY : 1094_the_largest_generation.cc
+
+# fast build rule for target.
+1094_the_largest_generation.cc/fast:
+	$(MAKE) -f CMakeFiles/1094_the_largest_generation.cc.dir/build.make CMakeFiles/1094_the_largest_generation.cc.dir/build
+.PHONY : 1094_the_largest_generation.cc/fast
+
+#=============================================================================
+# Target rules for targets named 1021_deepest_root
+
+# Build rule for target.
+1021_deepest_root: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1021_deepest_root
+.PHONY : 1021_deepest_root
+
+# fast build rule for target.
+1021_deepest_root/fast:
+	$(MAKE) -f CMakeFiles/1021_deepest_root.dir/build.make CMakeFiles/1021_deepest_root.dir/build
+.PHONY : 1021_deepest_root/fast
+
+#=============================================================================
+# Target rules for targets named 1018_public_bike_management
+
+# Build rule for target.
+1018_public_bike_management: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1018_public_bike_management
+.PHONY : 1018_public_bike_management
+
+# fast build rule for target.
+1018_public_bike_management/fast:
+	$(MAKE) -f CMakeFiles/1018_public_bike_management.dir/build.make CMakeFiles/1018_public_bike_management.dir/build
+.PHONY : 1018_public_bike_management/fast
+
+#=============================================================================
+# Target rules for targets named 1102_invert_a_binary_tree
+
+# Build rule for target.
+1102_invert_a_binary_tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1102_invert_a_binary_tree
+.PHONY : 1102_invert_a_binary_tree
+
+# fast build rule for target.
+1102_invert_a_binary_tree/fast:
+	$(MAKE) -f CMakeFiles/1102_invert_a_binary_tree.dir/build.make CMakeFiles/1102_invert_a_binary_tree.dir/build
+.PHONY : 1102_invert_a_binary_tree/fast
+
+#=============================================================================
+# Target rules for targets named 1013_battle_over_cities
+
+# Build rule for target.
+1013_battle_over_cities: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1013_battle_over_cities
+.PHONY : 1013_battle_over_cities
+
+# fast build rule for target.
+1013_battle_over_cities/fast:
+	$(MAKE) -f CMakeFiles/1013_battle_over_cities.dir/build.make CMakeFiles/1013_battle_over_cities.dir/build
+.PHONY : 1013_battle_over_cities/fast
+
+#=============================================================================
+# Target rules for targets named 1066_root_of_avl_tree
+
+# Build rule for target.
+1066_root_of_avl_tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1066_root_of_avl_tree
+.PHONY : 1066_root_of_avl_tree
+
+# fast build rule for target.
+1066_root_of_avl_tree/fast:
+	$(MAKE) -f CMakeFiles/1066_root_of_avl_tree.dir/build.make CMakeFiles/1066_root_of_avl_tree.dir/build
+.PHONY : 1066_root_of_avl_tree/fast
+
+#=============================================================================
+# Target rules for targets named test
+
+# Build rule for target.
+test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+.PHONY : test/fast
+
+#=============================================================================
+# Target rules for targets named 1064_complete_binary_search_tree
+
+# Build rule for target.
+1064_complete_binary_search_tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1064_complete_binary_search_tree
+.PHONY : 1064_complete_binary_search_tree
+
+# fast build rule for target.
+1064_complete_binary_search_tree/fast:
+	$(MAKE) -f CMakeFiles/1064_complete_binary_search_tree.dir/build.make CMakeFiles/1064_complete_binary_search_tree.dir/build
+.PHONY : 1064_complete_binary_search_tree/fast
+
+#=============================================================================
+# Target rules for targets named 1086_tree_traversals_again
+
+# Build rule for target.
+1086_tree_traversals_again: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1086_tree_traversals_again
+.PHONY : 1086_tree_traversals_again
+
+# fast build rule for target.
+1086_tree_traversals_again/fast:
+	$(MAKE) -f CMakeFiles/1086_tree_traversals_again.dir/build.make CMakeFiles/1086_tree_traversals_again.dir/build
+.PHONY : 1086_tree_traversals_again/fast
+
+#=============================================================================
+# Target rules for targets named 1043_is_it_a_binary_search_tree
+
+# Build rule for target.
+1043_is_it_a_binary_search_tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1043_is_it_a_binary_search_tree
+.PHONY : 1043_is_it_a_binary_search_tree
+
+# fast build rule for target.
+1043_is_it_a_binary_search_tree/fast:
+	$(MAKE) -f CMakeFiles/1043_is_it_a_binary_search_tree.dir/build.make CMakeFiles/1043_is_it_a_binary_search_tree.dir/build
+.PHONY : 1043_is_it_a_binary_search_tree/fast
+
+#=============================================================================
+# Target rules for targets named 1107_social_clusters
+
+# Build rule for target.
+1107_social_clusters: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1107_social_clusters
+.PHONY : 1107_social_clusters
+
+# fast build rule for target.
+1107_social_clusters/fast:
+	$(MAKE) -f CMakeFiles/1107_social_clusters.dir/build.make CMakeFiles/1107_social_clusters.dir/build
+.PHONY : 1107_social_clusters/fast
+
+#=============================================================================
+# Target rules for targets named 1060_are_they_equal
+
+# Build rule for target.
+1060_are_they_equal: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1060_are_they_equal
+.PHONY : 1060_are_they_equal
+
+# fast build rule for target.
+1060_are_they_equal/fast:
+	$(MAKE) -f CMakeFiles/1060_are_they_equal.dir/build.make CMakeFiles/1060_are_they_equal.dir/build
+.PHONY : 1060_are_they_equal/fast
+
+#=============================================================================
+# Target rules for targets named 1053_path_of_equal_weight
+
+# Build rule for target.
+1053_path_of_equal_weight: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1053_path_of_equal_weight
+.PHONY : 1053_path_of_equal_weight
+
+# fast build rule for target.
+1053_path_of_equal_weight/fast:
+	$(MAKE) -f CMakeFiles/1053_path_of_equal_weight.dir/build.make CMakeFiles/1053_path_of_equal_weight.dir/build
+.PHONY : 1053_path_of_equal_weight/fast
+
+#=============================================================================
+# Target rules for targets named 1004_counting_leaves
+
+# Build rule for target.
+1004_counting_leaves: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1004_counting_leaves
+.PHONY : 1004_counting_leaves
+
+# fast build rule for target.
+1004_counting_leaves/fast:
+	$(MAKE) -f CMakeFiles/1004_counting_leaves.dir/build.make CMakeFiles/1004_counting_leaves.dir/build
+.PHONY : 1004_counting_leaves/fast
+
+#=============================================================================
+# Target rules for targets named 1099_build_a_binary_search_tree
+
+# Build rule for target.
+1099_build_a_binary_search_tree: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1099_build_a_binary_search_tree
+.PHONY : 1099_build_a_binary_search_tree
+
+# fast build rule for target.
+1099_build_a_binary_search_tree/fast:
+	$(MAKE) -f CMakeFiles/1099_build_a_binary_search_tree.dir/build.make CMakeFiles/1099_build_a_binary_search_tree.dir/build
+.PHONY : 1099_build_a_binary_search_tree/fast
+
+#=============================================================================
+# Target rules for targets named 1003_emergency
+
+# Build rule for target.
+1003_emergency: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1003_emergency
+.PHONY : 1003_emergency
+
+# fast build rule for target.
+1003_emergency/fast:
+	$(MAKE) -f CMakeFiles/1003_emergency.dir/build.make CMakeFiles/1003_emergency.dir/build
+.PHONY : 1003_emergency/fast
+
+#=============================================================================
+# Target rules for targets named 1076_forwards_on_weibo
+
+# Build rule for target.
+1076_forwards_on_weibo: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1076_forwards_on_weibo
+.PHONY : 1076_forwards_on_weibo
+
+# fast build rule for target.
+1076_forwards_on_weibo/fast:
+	$(MAKE) -f CMakeFiles/1076_forwards_on_weibo.dir/build.make CMakeFiles/1076_forwards_on_weibo.dir/build
+.PHONY : 1076_forwards_on_weibo/fast
+
+#=============================================================================
+# Target rules for targets named 1070_mooncake
+
+# Build rule for target.
+1070_mooncake: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1070_mooncake
+.PHONY : 1070_mooncake
+
+# fast build rule for target.
+1070_mooncake/fast:
+	$(MAKE) -f CMakeFiles/1070_mooncake.dir/build.make CMakeFiles/1070_mooncake.dir/build
+.PHONY : 1070_mooncake/fast
+
+#=============================================================================
+# Target rules for targets named 1025_pat_ranking
+
+# Build rule for target.
+1025_pat_ranking: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1025_pat_ranking
+.PHONY : 1025_pat_ranking
+
+# fast build rule for target.
+1025_pat_ranking/fast:
+	$(MAKE) -f CMakeFiles/1025_pat_ranking.dir/build.make CMakeFiles/1025_pat_ranking.dir/build
+.PHONY : 1025_pat_ranking/fast
+
+#=============================================================================
+# Target rules for targets named 1090_highest_price_in_supply_chain
+
+# Build rule for target.
+1090_highest_price_in_supply_chain: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1090_highest_price_in_supply_chain
+.PHONY : 1090_highest_price_in_supply_chain
+
+# fast build rule for target.
+1090_highest_price_in_supply_chain/fast:
+	$(MAKE) -f CMakeFiles/1090_highest_price_in_supply_chain.dir/build.make CMakeFiles/1090_highest_price_in_supply_chain.dir/build
+.PHONY : 1090_highest_price_in_supply_chain/fast
+
+#=============================================================================
+# Target rules for targets named 1020_tree_traversals
+
+# Build rule for target.
+1020_tree_traversals: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1020_tree_traversals
+.PHONY : 1020_tree_traversals
+
+# fast build rule for target.
+1020_tree_traversals/fast:
+	$(MAKE) -f CMakeFiles/1020_tree_traversals.dir/build.make CMakeFiles/1020_tree_traversals.dir/build
+.PHONY : 1020_tree_traversals/fast
+
+#=============================================================================
+# Target rules for targets named 1069_the_black_hole_of_numbers
+
+# Build rule for target.
+1069_the_black_hole_of_numbers: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1069_the_black_hole_of_numbers
+.PHONY : 1069_the_black_hole_of_numbers
+
+# fast build rule for target.
+1069_the_black_hole_of_numbers/fast:
+	$(MAKE) -f CMakeFiles/1069_the_black_hole_of_numbers.dir/build.make CMakeFiles/1069_the_black_hole_of_numbers.dir/build
+.PHONY : 1069_the_black_hole_of_numbers/fast
+
+src/1003_emergency.o: src/1003_emergency.cc.o
+
+.PHONY : src/1003_emergency.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/PAT.dir/build.make CMakeFiles/PAT.dir/main.cpp.o
-.PHONY : main.cpp.o
+src/1003_emergency.cc.o:
+	$(MAKE) -f CMakeFiles/1003_emergency.dir/build.make CMakeFiles/1003_emergency.dir/src/1003_emergency.cc.o
+.PHONY : src/1003_emergency.cc.o
 
-main.i: main.cpp.i
+src/1003_emergency.i: src/1003_emergency.cc.i
 
-.PHONY : main.i
+.PHONY : src/1003_emergency.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/PAT.dir/build.make CMakeFiles/PAT.dir/main.cpp.i
-.PHONY : main.cpp.i
+src/1003_emergency.cc.i:
+	$(MAKE) -f CMakeFiles/1003_emergency.dir/build.make CMakeFiles/1003_emergency.dir/src/1003_emergency.cc.i
+.PHONY : src/1003_emergency.cc.i
 
-main.s: main.cpp.s
+src/1003_emergency.s: src/1003_emergency.cc.s
 
-.PHONY : main.s
+.PHONY : src/1003_emergency.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/PAT.dir/build.make CMakeFiles/PAT.dir/main.cpp.s
-.PHONY : main.cpp.s
+src/1003_emergency.cc.s:
+	$(MAKE) -f CMakeFiles/1003_emergency.dir/build.make CMakeFiles/1003_emergency.dir/src/1003_emergency.cc.s
+.PHONY : src/1003_emergency.cc.s
+
+src/1004_counting_leaves.o: src/1004_counting_leaves.cc.o
+
+.PHONY : src/1004_counting_leaves.o
+
+# target to build an object file
+src/1004_counting_leaves.cc.o:
+	$(MAKE) -f CMakeFiles/1004_counting_leaves.dir/build.make CMakeFiles/1004_counting_leaves.dir/src/1004_counting_leaves.cc.o
+.PHONY : src/1004_counting_leaves.cc.o
+
+src/1004_counting_leaves.i: src/1004_counting_leaves.cc.i
+
+.PHONY : src/1004_counting_leaves.i
+
+# target to preprocess a source file
+src/1004_counting_leaves.cc.i:
+	$(MAKE) -f CMakeFiles/1004_counting_leaves.dir/build.make CMakeFiles/1004_counting_leaves.dir/src/1004_counting_leaves.cc.i
+.PHONY : src/1004_counting_leaves.cc.i
+
+src/1004_counting_leaves.s: src/1004_counting_leaves.cc.s
+
+.PHONY : src/1004_counting_leaves.s
+
+# target to generate assembly for a file
+src/1004_counting_leaves.cc.s:
+	$(MAKE) -f CMakeFiles/1004_counting_leaves.dir/build.make CMakeFiles/1004_counting_leaves.dir/src/1004_counting_leaves.cc.s
+.PHONY : src/1004_counting_leaves.cc.s
+
+src/1013_battle_over_cities.o: src/1013_battle_over_cities.cc.o
+
+.PHONY : src/1013_battle_over_cities.o
+
+# target to build an object file
+src/1013_battle_over_cities.cc.o:
+	$(MAKE) -f CMakeFiles/1013_battle_over_cities.dir/build.make CMakeFiles/1013_battle_over_cities.dir/src/1013_battle_over_cities.cc.o
+.PHONY : src/1013_battle_over_cities.cc.o
+
+src/1013_battle_over_cities.i: src/1013_battle_over_cities.cc.i
+
+.PHONY : src/1013_battle_over_cities.i
+
+# target to preprocess a source file
+src/1013_battle_over_cities.cc.i:
+	$(MAKE) -f CMakeFiles/1013_battle_over_cities.dir/build.make CMakeFiles/1013_battle_over_cities.dir/src/1013_battle_over_cities.cc.i
+.PHONY : src/1013_battle_over_cities.cc.i
+
+src/1013_battle_over_cities.s: src/1013_battle_over_cities.cc.s
+
+.PHONY : src/1013_battle_over_cities.s
+
+# target to generate assembly for a file
+src/1013_battle_over_cities.cc.s:
+	$(MAKE) -f CMakeFiles/1013_battle_over_cities.dir/build.make CMakeFiles/1013_battle_over_cities.dir/src/1013_battle_over_cities.cc.s
+.PHONY : src/1013_battle_over_cities.cc.s
+
+src/1018_public_bike_management.o: src/1018_public_bike_management.cc.o
+
+.PHONY : src/1018_public_bike_management.o
+
+# target to build an object file
+src/1018_public_bike_management.cc.o:
+	$(MAKE) -f CMakeFiles/1018_public_bike_management.dir/build.make CMakeFiles/1018_public_bike_management.dir/src/1018_public_bike_management.cc.o
+.PHONY : src/1018_public_bike_management.cc.o
+
+src/1018_public_bike_management.i: src/1018_public_bike_management.cc.i
+
+.PHONY : src/1018_public_bike_management.i
+
+# target to preprocess a source file
+src/1018_public_bike_management.cc.i:
+	$(MAKE) -f CMakeFiles/1018_public_bike_management.dir/build.make CMakeFiles/1018_public_bike_management.dir/src/1018_public_bike_management.cc.i
+.PHONY : src/1018_public_bike_management.cc.i
+
+src/1018_public_bike_management.s: src/1018_public_bike_management.cc.s
+
+.PHONY : src/1018_public_bike_management.s
+
+# target to generate assembly for a file
+src/1018_public_bike_management.cc.s:
+	$(MAKE) -f CMakeFiles/1018_public_bike_management.dir/build.make CMakeFiles/1018_public_bike_management.dir/src/1018_public_bike_management.cc.s
+.PHONY : src/1018_public_bike_management.cc.s
+
+src/1020_tree_traversals.o: src/1020_tree_traversals.cc.o
+
+.PHONY : src/1020_tree_traversals.o
+
+# target to build an object file
+src/1020_tree_traversals.cc.o:
+	$(MAKE) -f CMakeFiles/1020_tree_traversals.dir/build.make CMakeFiles/1020_tree_traversals.dir/src/1020_tree_traversals.cc.o
+.PHONY : src/1020_tree_traversals.cc.o
+
+src/1020_tree_traversals.i: src/1020_tree_traversals.cc.i
+
+.PHONY : src/1020_tree_traversals.i
+
+# target to preprocess a source file
+src/1020_tree_traversals.cc.i:
+	$(MAKE) -f CMakeFiles/1020_tree_traversals.dir/build.make CMakeFiles/1020_tree_traversals.dir/src/1020_tree_traversals.cc.i
+.PHONY : src/1020_tree_traversals.cc.i
+
+src/1020_tree_traversals.s: src/1020_tree_traversals.cc.s
+
+.PHONY : src/1020_tree_traversals.s
+
+# target to generate assembly for a file
+src/1020_tree_traversals.cc.s:
+	$(MAKE) -f CMakeFiles/1020_tree_traversals.dir/build.make CMakeFiles/1020_tree_traversals.dir/src/1020_tree_traversals.cc.s
+.PHONY : src/1020_tree_traversals.cc.s
+
+src/1021_deepest_root.o: src/1021_deepest_root.cc.o
+
+.PHONY : src/1021_deepest_root.o
+
+# target to build an object file
+src/1021_deepest_root.cc.o:
+	$(MAKE) -f CMakeFiles/1021_deepest_root.dir/build.make CMakeFiles/1021_deepest_root.dir/src/1021_deepest_root.cc.o
+.PHONY : src/1021_deepest_root.cc.o
+
+src/1021_deepest_root.i: src/1021_deepest_root.cc.i
+
+.PHONY : src/1021_deepest_root.i
+
+# target to preprocess a source file
+src/1021_deepest_root.cc.i:
+	$(MAKE) -f CMakeFiles/1021_deepest_root.dir/build.make CMakeFiles/1021_deepest_root.dir/src/1021_deepest_root.cc.i
+.PHONY : src/1021_deepest_root.cc.i
+
+src/1021_deepest_root.s: src/1021_deepest_root.cc.s
+
+.PHONY : src/1021_deepest_root.s
+
+# target to generate assembly for a file
+src/1021_deepest_root.cc.s:
+	$(MAKE) -f CMakeFiles/1021_deepest_root.dir/build.make CMakeFiles/1021_deepest_root.dir/src/1021_deepest_root.cc.s
+.PHONY : src/1021_deepest_root.cc.s
+
+src/1025_pat_ranking.o: src/1025_pat_ranking.cc.o
+
+.PHONY : src/1025_pat_ranking.o
+
+# target to build an object file
+src/1025_pat_ranking.cc.o:
+	$(MAKE) -f CMakeFiles/1025_pat_ranking.dir/build.make CMakeFiles/1025_pat_ranking.dir/src/1025_pat_ranking.cc.o
+.PHONY : src/1025_pat_ranking.cc.o
+
+src/1025_pat_ranking.i: src/1025_pat_ranking.cc.i
+
+.PHONY : src/1025_pat_ranking.i
+
+# target to preprocess a source file
+src/1025_pat_ranking.cc.i:
+	$(MAKE) -f CMakeFiles/1025_pat_ranking.dir/build.make CMakeFiles/1025_pat_ranking.dir/src/1025_pat_ranking.cc.i
+.PHONY : src/1025_pat_ranking.cc.i
+
+src/1025_pat_ranking.s: src/1025_pat_ranking.cc.s
+
+.PHONY : src/1025_pat_ranking.s
+
+# target to generate assembly for a file
+src/1025_pat_ranking.cc.s:
+	$(MAKE) -f CMakeFiles/1025_pat_ranking.dir/build.make CMakeFiles/1025_pat_ranking.dir/src/1025_pat_ranking.cc.s
+.PHONY : src/1025_pat_ranking.cc.s
+
+src/1030_travel_plan.o: src/1030_travel_plan.cc.o
+
+.PHONY : src/1030_travel_plan.o
+
+# target to build an object file
+src/1030_travel_plan.cc.o:
+	$(MAKE) -f CMakeFiles/1030_travel_plan.dir/build.make CMakeFiles/1030_travel_plan.dir/src/1030_travel_plan.cc.o
+.PHONY : src/1030_travel_plan.cc.o
+
+src/1030_travel_plan.i: src/1030_travel_plan.cc.i
+
+.PHONY : src/1030_travel_plan.i
+
+# target to preprocess a source file
+src/1030_travel_plan.cc.i:
+	$(MAKE) -f CMakeFiles/1030_travel_plan.dir/build.make CMakeFiles/1030_travel_plan.dir/src/1030_travel_plan.cc.i
+.PHONY : src/1030_travel_plan.cc.i
+
+src/1030_travel_plan.s: src/1030_travel_plan.cc.s
+
+.PHONY : src/1030_travel_plan.s
+
+# target to generate assembly for a file
+src/1030_travel_plan.cc.s:
+	$(MAKE) -f CMakeFiles/1030_travel_plan.dir/build.make CMakeFiles/1030_travel_plan.dir/src/1030_travel_plan.cc.s
+.PHONY : src/1030_travel_plan.cc.s
+
+src/1043_is_it_a_binary_search_tree.o: src/1043_is_it_a_binary_search_tree.cc.o
+
+.PHONY : src/1043_is_it_a_binary_search_tree.o
+
+# target to build an object file
+src/1043_is_it_a_binary_search_tree.cc.o:
+	$(MAKE) -f CMakeFiles/1043_is_it_a_binary_search_tree.dir/build.make CMakeFiles/1043_is_it_a_binary_search_tree.dir/src/1043_is_it_a_binary_search_tree.cc.o
+.PHONY : src/1043_is_it_a_binary_search_tree.cc.o
+
+src/1043_is_it_a_binary_search_tree.i: src/1043_is_it_a_binary_search_tree.cc.i
+
+.PHONY : src/1043_is_it_a_binary_search_tree.i
+
+# target to preprocess a source file
+src/1043_is_it_a_binary_search_tree.cc.i:
+	$(MAKE) -f CMakeFiles/1043_is_it_a_binary_search_tree.dir/build.make CMakeFiles/1043_is_it_a_binary_search_tree.dir/src/1043_is_it_a_binary_search_tree.cc.i
+.PHONY : src/1043_is_it_a_binary_search_tree.cc.i
+
+src/1043_is_it_a_binary_search_tree.s: src/1043_is_it_a_binary_search_tree.cc.s
+
+.PHONY : src/1043_is_it_a_binary_search_tree.s
+
+# target to generate assembly for a file
+src/1043_is_it_a_binary_search_tree.cc.s:
+	$(MAKE) -f CMakeFiles/1043_is_it_a_binary_search_tree.dir/build.make CMakeFiles/1043_is_it_a_binary_search_tree.dir/src/1043_is_it_a_binary_search_tree.cc.s
+.PHONY : src/1043_is_it_a_binary_search_tree.cc.s
+
+src/1053_path_of_equal_weight.o: src/1053_path_of_equal_weight.cc.o
+
+.PHONY : src/1053_path_of_equal_weight.o
+
+# target to build an object file
+src/1053_path_of_equal_weight.cc.o:
+	$(MAKE) -f CMakeFiles/1053_path_of_equal_weight.dir/build.make CMakeFiles/1053_path_of_equal_weight.dir/src/1053_path_of_equal_weight.cc.o
+.PHONY : src/1053_path_of_equal_weight.cc.o
+
+src/1053_path_of_equal_weight.i: src/1053_path_of_equal_weight.cc.i
+
+.PHONY : src/1053_path_of_equal_weight.i
+
+# target to preprocess a source file
+src/1053_path_of_equal_weight.cc.i:
+	$(MAKE) -f CMakeFiles/1053_path_of_equal_weight.dir/build.make CMakeFiles/1053_path_of_equal_weight.dir/src/1053_path_of_equal_weight.cc.i
+.PHONY : src/1053_path_of_equal_weight.cc.i
+
+src/1053_path_of_equal_weight.s: src/1053_path_of_equal_weight.cc.s
+
+.PHONY : src/1053_path_of_equal_weight.s
+
+# target to generate assembly for a file
+src/1053_path_of_equal_weight.cc.s:
+	$(MAKE) -f CMakeFiles/1053_path_of_equal_weight.dir/build.make CMakeFiles/1053_path_of_equal_weight.dir/src/1053_path_of_equal_weight.cc.s
+.PHONY : src/1053_path_of_equal_weight.cc.s
+
+src/1060_are_they_equal.o: src/1060_are_they_equal.cc.o
+
+.PHONY : src/1060_are_they_equal.o
+
+# target to build an object file
+src/1060_are_they_equal.cc.o:
+	$(MAKE) -f CMakeFiles/1060_are_they_equal.dir/build.make CMakeFiles/1060_are_they_equal.dir/src/1060_are_they_equal.cc.o
+.PHONY : src/1060_are_they_equal.cc.o
+
+src/1060_are_they_equal.i: src/1060_are_they_equal.cc.i
+
+.PHONY : src/1060_are_they_equal.i
+
+# target to preprocess a source file
+src/1060_are_they_equal.cc.i:
+	$(MAKE) -f CMakeFiles/1060_are_they_equal.dir/build.make CMakeFiles/1060_are_they_equal.dir/src/1060_are_they_equal.cc.i
+.PHONY : src/1060_are_they_equal.cc.i
+
+src/1060_are_they_equal.s: src/1060_are_they_equal.cc.s
+
+.PHONY : src/1060_are_they_equal.s
+
+# target to generate assembly for a file
+src/1060_are_they_equal.cc.s:
+	$(MAKE) -f CMakeFiles/1060_are_they_equal.dir/build.make CMakeFiles/1060_are_they_equal.dir/src/1060_are_they_equal.cc.s
+.PHONY : src/1060_are_they_equal.cc.s
+
+src/1064_complete_binary_search_tree.o: src/1064_complete_binary_search_tree.cc.o
+
+.PHONY : src/1064_complete_binary_search_tree.o
+
+# target to build an object file
+src/1064_complete_binary_search_tree.cc.o:
+	$(MAKE) -f CMakeFiles/1064_complete_binary_search_tree.dir/build.make CMakeFiles/1064_complete_binary_search_tree.dir/src/1064_complete_binary_search_tree.cc.o
+.PHONY : src/1064_complete_binary_search_tree.cc.o
+
+src/1064_complete_binary_search_tree.i: src/1064_complete_binary_search_tree.cc.i
+
+.PHONY : src/1064_complete_binary_search_tree.i
+
+# target to preprocess a source file
+src/1064_complete_binary_search_tree.cc.i:
+	$(MAKE) -f CMakeFiles/1064_complete_binary_search_tree.dir/build.make CMakeFiles/1064_complete_binary_search_tree.dir/src/1064_complete_binary_search_tree.cc.i
+.PHONY : src/1064_complete_binary_search_tree.cc.i
+
+src/1064_complete_binary_search_tree.s: src/1064_complete_binary_search_tree.cc.s
+
+.PHONY : src/1064_complete_binary_search_tree.s
+
+# target to generate assembly for a file
+src/1064_complete_binary_search_tree.cc.s:
+	$(MAKE) -f CMakeFiles/1064_complete_binary_search_tree.dir/build.make CMakeFiles/1064_complete_binary_search_tree.dir/src/1064_complete_binary_search_tree.cc.s
+.PHONY : src/1064_complete_binary_search_tree.cc.s
+
+src/1066_root_of_avl_tree.o: src/1066_root_of_avl_tree.cc.o
+
+.PHONY : src/1066_root_of_avl_tree.o
+
+# target to build an object file
+src/1066_root_of_avl_tree.cc.o:
+	$(MAKE) -f CMakeFiles/1066_root_of_avl_tree.dir/build.make CMakeFiles/1066_root_of_avl_tree.dir/src/1066_root_of_avl_tree.cc.o
+.PHONY : src/1066_root_of_avl_tree.cc.o
+
+src/1066_root_of_avl_tree.i: src/1066_root_of_avl_tree.cc.i
+
+.PHONY : src/1066_root_of_avl_tree.i
+
+# target to preprocess a source file
+src/1066_root_of_avl_tree.cc.i:
+	$(MAKE) -f CMakeFiles/1066_root_of_avl_tree.dir/build.make CMakeFiles/1066_root_of_avl_tree.dir/src/1066_root_of_avl_tree.cc.i
+.PHONY : src/1066_root_of_avl_tree.cc.i
+
+src/1066_root_of_avl_tree.s: src/1066_root_of_avl_tree.cc.s
+
+.PHONY : src/1066_root_of_avl_tree.s
+
+# target to generate assembly for a file
+src/1066_root_of_avl_tree.cc.s:
+	$(MAKE) -f CMakeFiles/1066_root_of_avl_tree.dir/build.make CMakeFiles/1066_root_of_avl_tree.dir/src/1066_root_of_avl_tree.cc.s
+.PHONY : src/1066_root_of_avl_tree.cc.s
+
+src/1069_the_black_hole_of_numbers.o: src/1069_the_black_hole_of_numbers.cc.o
+
+.PHONY : src/1069_the_black_hole_of_numbers.o
+
+# target to build an object file
+src/1069_the_black_hole_of_numbers.cc.o:
+	$(MAKE) -f CMakeFiles/1069_the_black_hole_of_numbers.dir/build.make CMakeFiles/1069_the_black_hole_of_numbers.dir/src/1069_the_black_hole_of_numbers.cc.o
+.PHONY : src/1069_the_black_hole_of_numbers.cc.o
+
+src/1069_the_black_hole_of_numbers.i: src/1069_the_black_hole_of_numbers.cc.i
+
+.PHONY : src/1069_the_black_hole_of_numbers.i
+
+# target to preprocess a source file
+src/1069_the_black_hole_of_numbers.cc.i:
+	$(MAKE) -f CMakeFiles/1069_the_black_hole_of_numbers.dir/build.make CMakeFiles/1069_the_black_hole_of_numbers.dir/src/1069_the_black_hole_of_numbers.cc.i
+.PHONY : src/1069_the_black_hole_of_numbers.cc.i
+
+src/1069_the_black_hole_of_numbers.s: src/1069_the_black_hole_of_numbers.cc.s
+
+.PHONY : src/1069_the_black_hole_of_numbers.s
+
+# target to generate assembly for a file
+src/1069_the_black_hole_of_numbers.cc.s:
+	$(MAKE) -f CMakeFiles/1069_the_black_hole_of_numbers.dir/build.make CMakeFiles/1069_the_black_hole_of_numbers.dir/src/1069_the_black_hole_of_numbers.cc.s
+.PHONY : src/1069_the_black_hole_of_numbers.cc.s
+
+src/1070_mooncake.o: src/1070_mooncake.cc.o
+
+.PHONY : src/1070_mooncake.o
+
+# target to build an object file
+src/1070_mooncake.cc.o:
+	$(MAKE) -f CMakeFiles/1070_mooncake.dir/build.make CMakeFiles/1070_mooncake.dir/src/1070_mooncake.cc.o
+.PHONY : src/1070_mooncake.cc.o
+
+src/1070_mooncake.i: src/1070_mooncake.cc.i
+
+.PHONY : src/1070_mooncake.i
+
+# target to preprocess a source file
+src/1070_mooncake.cc.i:
+	$(MAKE) -f CMakeFiles/1070_mooncake.dir/build.make CMakeFiles/1070_mooncake.dir/src/1070_mooncake.cc.i
+.PHONY : src/1070_mooncake.cc.i
+
+src/1070_mooncake.s: src/1070_mooncake.cc.s
+
+.PHONY : src/1070_mooncake.s
+
+# target to generate assembly for a file
+src/1070_mooncake.cc.s:
+	$(MAKE) -f CMakeFiles/1070_mooncake.dir/build.make CMakeFiles/1070_mooncake.dir/src/1070_mooncake.cc.s
+.PHONY : src/1070_mooncake.cc.s
+
+src/1072_gas_station.o: src/1072_gas_station.cc.o
+
+.PHONY : src/1072_gas_station.o
+
+# target to build an object file
+src/1072_gas_station.cc.o:
+	$(MAKE) -f CMakeFiles/1072_gas_station.dir/build.make CMakeFiles/1072_gas_station.dir/src/1072_gas_station.cc.o
+.PHONY : src/1072_gas_station.cc.o
+
+src/1072_gas_station.i: src/1072_gas_station.cc.i
+
+.PHONY : src/1072_gas_station.i
+
+# target to preprocess a source file
+src/1072_gas_station.cc.i:
+	$(MAKE) -f CMakeFiles/1072_gas_station.dir/build.make CMakeFiles/1072_gas_station.dir/src/1072_gas_station.cc.i
+.PHONY : src/1072_gas_station.cc.i
+
+src/1072_gas_station.s: src/1072_gas_station.cc.s
+
+.PHONY : src/1072_gas_station.s
+
+# target to generate assembly for a file
+src/1072_gas_station.cc.s:
+	$(MAKE) -f CMakeFiles/1072_gas_station.dir/build.make CMakeFiles/1072_gas_station.dir/src/1072_gas_station.cc.s
+.PHONY : src/1072_gas_station.cc.s
+
+src/1076_forwards_on_weibo.o: src/1076_forwards_on_weibo.cc.o
+
+.PHONY : src/1076_forwards_on_weibo.o
+
+# target to build an object file
+src/1076_forwards_on_weibo.cc.o:
+	$(MAKE) -f CMakeFiles/1076_forwards_on_weibo.dir/build.make CMakeFiles/1076_forwards_on_weibo.dir/src/1076_forwards_on_weibo.cc.o
+.PHONY : src/1076_forwards_on_weibo.cc.o
+
+src/1076_forwards_on_weibo.i: src/1076_forwards_on_weibo.cc.i
+
+.PHONY : src/1076_forwards_on_weibo.i
+
+# target to preprocess a source file
+src/1076_forwards_on_weibo.cc.i:
+	$(MAKE) -f CMakeFiles/1076_forwards_on_weibo.dir/build.make CMakeFiles/1076_forwards_on_weibo.dir/src/1076_forwards_on_weibo.cc.i
+.PHONY : src/1076_forwards_on_weibo.cc.i
+
+src/1076_forwards_on_weibo.s: src/1076_forwards_on_weibo.cc.s
+
+.PHONY : src/1076_forwards_on_weibo.s
+
+# target to generate assembly for a file
+src/1076_forwards_on_weibo.cc.s:
+	$(MAKE) -f CMakeFiles/1076_forwards_on_weibo.dir/build.make CMakeFiles/1076_forwards_on_weibo.dir/src/1076_forwards_on_weibo.cc.s
+.PHONY : src/1076_forwards_on_weibo.cc.s
+
+src/1079_total_sales_of_supply_chain.o: src/1079_total_sales_of_supply_chain.cc.o
+
+.PHONY : src/1079_total_sales_of_supply_chain.o
+
+# target to build an object file
+src/1079_total_sales_of_supply_chain.cc.o:
+	$(MAKE) -f CMakeFiles/1079_total_sales_of_supply_chain.dir/build.make CMakeFiles/1079_total_sales_of_supply_chain.dir/src/1079_total_sales_of_supply_chain.cc.o
+.PHONY : src/1079_total_sales_of_supply_chain.cc.o
+
+src/1079_total_sales_of_supply_chain.i: src/1079_total_sales_of_supply_chain.cc.i
+
+.PHONY : src/1079_total_sales_of_supply_chain.i
+
+# target to preprocess a source file
+src/1079_total_sales_of_supply_chain.cc.i:
+	$(MAKE) -f CMakeFiles/1079_total_sales_of_supply_chain.dir/build.make CMakeFiles/1079_total_sales_of_supply_chain.dir/src/1079_total_sales_of_supply_chain.cc.i
+.PHONY : src/1079_total_sales_of_supply_chain.cc.i
+
+src/1079_total_sales_of_supply_chain.s: src/1079_total_sales_of_supply_chain.cc.s
+
+.PHONY : src/1079_total_sales_of_supply_chain.s
+
+# target to generate assembly for a file
+src/1079_total_sales_of_supply_chain.cc.s:
+	$(MAKE) -f CMakeFiles/1079_total_sales_of_supply_chain.dir/build.make CMakeFiles/1079_total_sales_of_supply_chain.dir/src/1079_total_sales_of_supply_chain.cc.s
+.PHONY : src/1079_total_sales_of_supply_chain.cc.s
+
+src/1086_tree_traversals_again.o: src/1086_tree_traversals_again.cc.o
+
+.PHONY : src/1086_tree_traversals_again.o
+
+# target to build an object file
+src/1086_tree_traversals_again.cc.o:
+	$(MAKE) -f CMakeFiles/1086_tree_traversals_again.dir/build.make CMakeFiles/1086_tree_traversals_again.dir/src/1086_tree_traversals_again.cc.o
+.PHONY : src/1086_tree_traversals_again.cc.o
+
+src/1086_tree_traversals_again.i: src/1086_tree_traversals_again.cc.i
+
+.PHONY : src/1086_tree_traversals_again.i
+
+# target to preprocess a source file
+src/1086_tree_traversals_again.cc.i:
+	$(MAKE) -f CMakeFiles/1086_tree_traversals_again.dir/build.make CMakeFiles/1086_tree_traversals_again.dir/src/1086_tree_traversals_again.cc.i
+.PHONY : src/1086_tree_traversals_again.cc.i
+
+src/1086_tree_traversals_again.s: src/1086_tree_traversals_again.cc.s
+
+.PHONY : src/1086_tree_traversals_again.s
+
+# target to generate assembly for a file
+src/1086_tree_traversals_again.cc.s:
+	$(MAKE) -f CMakeFiles/1086_tree_traversals_again.dir/build.make CMakeFiles/1086_tree_traversals_again.dir/src/1086_tree_traversals_again.cc.s
+.PHONY : src/1086_tree_traversals_again.cc.s
+
+src/1087_all_roads_lead_to_rome.o: src/1087_all_roads_lead_to_rome.cc.o
+
+.PHONY : src/1087_all_roads_lead_to_rome.o
+
+# target to build an object file
+src/1087_all_roads_lead_to_rome.cc.o:
+	$(MAKE) -f CMakeFiles/1087_all_roads_lead_to_rome.dir/build.make CMakeFiles/1087_all_roads_lead_to_rome.dir/src/1087_all_roads_lead_to_rome.cc.o
+.PHONY : src/1087_all_roads_lead_to_rome.cc.o
+
+src/1087_all_roads_lead_to_rome.i: src/1087_all_roads_lead_to_rome.cc.i
+
+.PHONY : src/1087_all_roads_lead_to_rome.i
+
+# target to preprocess a source file
+src/1087_all_roads_lead_to_rome.cc.i:
+	$(MAKE) -f CMakeFiles/1087_all_roads_lead_to_rome.dir/build.make CMakeFiles/1087_all_roads_lead_to_rome.dir/src/1087_all_roads_lead_to_rome.cc.i
+.PHONY : src/1087_all_roads_lead_to_rome.cc.i
+
+src/1087_all_roads_lead_to_rome.s: src/1087_all_roads_lead_to_rome.cc.s
+
+.PHONY : src/1087_all_roads_lead_to_rome.s
+
+# target to generate assembly for a file
+src/1087_all_roads_lead_to_rome.cc.s:
+	$(MAKE) -f CMakeFiles/1087_all_roads_lead_to_rome.dir/build.make CMakeFiles/1087_all_roads_lead_to_rome.dir/src/1087_all_roads_lead_to_rome.cc.s
+.PHONY : src/1087_all_roads_lead_to_rome.cc.s
+
+src/1090_highest_price_in_supply_chain.o: src/1090_highest_price_in_supply_chain.cc.o
+
+.PHONY : src/1090_highest_price_in_supply_chain.o
+
+# target to build an object file
+src/1090_highest_price_in_supply_chain.cc.o:
+	$(MAKE) -f CMakeFiles/1090_highest_price_in_supply_chain.dir/build.make CMakeFiles/1090_highest_price_in_supply_chain.dir/src/1090_highest_price_in_supply_chain.cc.o
+.PHONY : src/1090_highest_price_in_supply_chain.cc.o
+
+src/1090_highest_price_in_supply_chain.i: src/1090_highest_price_in_supply_chain.cc.i
+
+.PHONY : src/1090_highest_price_in_supply_chain.i
+
+# target to preprocess a source file
+src/1090_highest_price_in_supply_chain.cc.i:
+	$(MAKE) -f CMakeFiles/1090_highest_price_in_supply_chain.dir/build.make CMakeFiles/1090_highest_price_in_supply_chain.dir/src/1090_highest_price_in_supply_chain.cc.i
+.PHONY : src/1090_highest_price_in_supply_chain.cc.i
+
+src/1090_highest_price_in_supply_chain.s: src/1090_highest_price_in_supply_chain.cc.s
+
+.PHONY : src/1090_highest_price_in_supply_chain.s
+
+# target to generate assembly for a file
+src/1090_highest_price_in_supply_chain.cc.s:
+	$(MAKE) -f CMakeFiles/1090_highest_price_in_supply_chain.dir/build.make CMakeFiles/1090_highest_price_in_supply_chain.dir/src/1090_highest_price_in_supply_chain.cc.s
+.PHONY : src/1090_highest_price_in_supply_chain.cc.s
+
+src/1094_the_largest_generation.o: src/1094_the_largest_generation.cc.o
+
+.PHONY : src/1094_the_largest_generation.o
+
+# target to build an object file
+src/1094_the_largest_generation.cc.o:
+	$(MAKE) -f CMakeFiles/1094_the_largest_generation.cc.dir/build.make CMakeFiles/1094_the_largest_generation.cc.dir/src/1094_the_largest_generation.cc.o
+.PHONY : src/1094_the_largest_generation.cc.o
+
+src/1094_the_largest_generation.i: src/1094_the_largest_generation.cc.i
+
+.PHONY : src/1094_the_largest_generation.i
+
+# target to preprocess a source file
+src/1094_the_largest_generation.cc.i:
+	$(MAKE) -f CMakeFiles/1094_the_largest_generation.cc.dir/build.make CMakeFiles/1094_the_largest_generation.cc.dir/src/1094_the_largest_generation.cc.i
+.PHONY : src/1094_the_largest_generation.cc.i
+
+src/1094_the_largest_generation.s: src/1094_the_largest_generation.cc.s
+
+.PHONY : src/1094_the_largest_generation.s
+
+# target to generate assembly for a file
+src/1094_the_largest_generation.cc.s:
+	$(MAKE) -f CMakeFiles/1094_the_largest_generation.cc.dir/build.make CMakeFiles/1094_the_largest_generation.cc.dir/src/1094_the_largest_generation.cc.s
+.PHONY : src/1094_the_largest_generation.cc.s
+
+src/1099_build_a_binary_search_tree.o: src/1099_build_a_binary_search_tree.cc.o
+
+.PHONY : src/1099_build_a_binary_search_tree.o
+
+# target to build an object file
+src/1099_build_a_binary_search_tree.cc.o:
+	$(MAKE) -f CMakeFiles/1099_build_a_binary_search_tree.dir/build.make CMakeFiles/1099_build_a_binary_search_tree.dir/src/1099_build_a_binary_search_tree.cc.o
+.PHONY : src/1099_build_a_binary_search_tree.cc.o
+
+src/1099_build_a_binary_search_tree.i: src/1099_build_a_binary_search_tree.cc.i
+
+.PHONY : src/1099_build_a_binary_search_tree.i
+
+# target to preprocess a source file
+src/1099_build_a_binary_search_tree.cc.i:
+	$(MAKE) -f CMakeFiles/1099_build_a_binary_search_tree.dir/build.make CMakeFiles/1099_build_a_binary_search_tree.dir/src/1099_build_a_binary_search_tree.cc.i
+.PHONY : src/1099_build_a_binary_search_tree.cc.i
+
+src/1099_build_a_binary_search_tree.s: src/1099_build_a_binary_search_tree.cc.s
+
+.PHONY : src/1099_build_a_binary_search_tree.s
+
+# target to generate assembly for a file
+src/1099_build_a_binary_search_tree.cc.s:
+	$(MAKE) -f CMakeFiles/1099_build_a_binary_search_tree.dir/build.make CMakeFiles/1099_build_a_binary_search_tree.dir/src/1099_build_a_binary_search_tree.cc.s
+.PHONY : src/1099_build_a_binary_search_tree.cc.s
+
+src/1102_invert_a_binary_tree.o: src/1102_invert_a_binary_tree.cc.o
+
+.PHONY : src/1102_invert_a_binary_tree.o
+
+# target to build an object file
+src/1102_invert_a_binary_tree.cc.o:
+	$(MAKE) -f CMakeFiles/1102_invert_a_binary_tree.dir/build.make CMakeFiles/1102_invert_a_binary_tree.dir/src/1102_invert_a_binary_tree.cc.o
+.PHONY : src/1102_invert_a_binary_tree.cc.o
+
+src/1102_invert_a_binary_tree.i: src/1102_invert_a_binary_tree.cc.i
+
+.PHONY : src/1102_invert_a_binary_tree.i
+
+# target to preprocess a source file
+src/1102_invert_a_binary_tree.cc.i:
+	$(MAKE) -f CMakeFiles/1102_invert_a_binary_tree.dir/build.make CMakeFiles/1102_invert_a_binary_tree.dir/src/1102_invert_a_binary_tree.cc.i
+.PHONY : src/1102_invert_a_binary_tree.cc.i
+
+src/1102_invert_a_binary_tree.s: src/1102_invert_a_binary_tree.cc.s
+
+.PHONY : src/1102_invert_a_binary_tree.s
+
+# target to generate assembly for a file
+src/1102_invert_a_binary_tree.cc.s:
+	$(MAKE) -f CMakeFiles/1102_invert_a_binary_tree.dir/build.make CMakeFiles/1102_invert_a_binary_tree.dir/src/1102_invert_a_binary_tree.cc.s
+.PHONY : src/1102_invert_a_binary_tree.cc.s
+
+src/1107_social_clusters.o: src/1107_social_clusters.cc.o
+
+.PHONY : src/1107_social_clusters.o
+
+# target to build an object file
+src/1107_social_clusters.cc.o:
+	$(MAKE) -f CMakeFiles/1107_social_clusters.dir/build.make CMakeFiles/1107_social_clusters.dir/src/1107_social_clusters.cc.o
+.PHONY : src/1107_social_clusters.cc.o
+
+src/1107_social_clusters.i: src/1107_social_clusters.cc.i
+
+.PHONY : src/1107_social_clusters.i
+
+# target to preprocess a source file
+src/1107_social_clusters.cc.i:
+	$(MAKE) -f CMakeFiles/1107_social_clusters.dir/build.make CMakeFiles/1107_social_clusters.dir/src/1107_social_clusters.cc.i
+.PHONY : src/1107_social_clusters.cc.i
+
+src/1107_social_clusters.s: src/1107_social_clusters.cc.s
+
+.PHONY : src/1107_social_clusters.s
+
+# target to generate assembly for a file
+src/1107_social_clusters.cc.s:
+	$(MAKE) -f CMakeFiles/1107_social_clusters.dir/build.make CMakeFiles/1107_social_clusters.dir/src/1107_social_clusters.cc.s
+.PHONY : src/1107_social_clusters.cc.s
+
+test/main.o: test/main.cpp.o
+
+.PHONY : test/main.o
+
+# target to build an object file
+test/main.cpp.o:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test/main.cpp.o
+.PHONY : test/main.cpp.o
+
+test/main.i: test/main.cpp.i
+
+.PHONY : test/main.i
+
+# target to preprocess a source file
+test/main.cpp.i:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test/main.cpp.i
+.PHONY : test/main.cpp.i
+
+test/main.s: test/main.cpp.s
+
+.PHONY : test/main.s
+
+# target to generate assembly for a file
+test/main.cpp.s:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test/main.cpp.s
+.PHONY : test/main.cpp.s
 
 # Help Target
 help:
@@ -158,10 +1158,110 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... PAT"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... 1087_all_roads_lead_to_rome"
+	@echo "... 1072_gas_station"
+	@echo "... 1030_travel_plan"
+	@echo "... 1079_total_sales_of_supply_chain"
+	@echo "... 1094_the_largest_generation.cc"
+	@echo "... 1021_deepest_root"
+	@echo "... 1018_public_bike_management"
+	@echo "... 1102_invert_a_binary_tree"
+	@echo "... 1013_battle_over_cities"
+	@echo "... 1066_root_of_avl_tree"
+	@echo "... test"
+	@echo "... 1064_complete_binary_search_tree"
+	@echo "... 1086_tree_traversals_again"
+	@echo "... 1043_is_it_a_binary_search_tree"
+	@echo "... 1107_social_clusters"
+	@echo "... 1060_are_they_equal"
+	@echo "... 1053_path_of_equal_weight"
+	@echo "... 1004_counting_leaves"
+	@echo "... 1099_build_a_binary_search_tree"
+	@echo "... 1003_emergency"
+	@echo "... 1076_forwards_on_weibo"
+	@echo "... 1070_mooncake"
+	@echo "... 1025_pat_ranking"
+	@echo "... 1090_highest_price_in_supply_chain"
+	@echo "... 1020_tree_traversals"
+	@echo "... 1069_the_black_hole_of_numbers"
+	@echo "... src/1003_emergency.o"
+	@echo "... src/1003_emergency.i"
+	@echo "... src/1003_emergency.s"
+	@echo "... src/1004_counting_leaves.o"
+	@echo "... src/1004_counting_leaves.i"
+	@echo "... src/1004_counting_leaves.s"
+	@echo "... src/1013_battle_over_cities.o"
+	@echo "... src/1013_battle_over_cities.i"
+	@echo "... src/1013_battle_over_cities.s"
+	@echo "... src/1018_public_bike_management.o"
+	@echo "... src/1018_public_bike_management.i"
+	@echo "... src/1018_public_bike_management.s"
+	@echo "... src/1020_tree_traversals.o"
+	@echo "... src/1020_tree_traversals.i"
+	@echo "... src/1020_tree_traversals.s"
+	@echo "... src/1021_deepest_root.o"
+	@echo "... src/1021_deepest_root.i"
+	@echo "... src/1021_deepest_root.s"
+	@echo "... src/1025_pat_ranking.o"
+	@echo "... src/1025_pat_ranking.i"
+	@echo "... src/1025_pat_ranking.s"
+	@echo "... src/1030_travel_plan.o"
+	@echo "... src/1030_travel_plan.i"
+	@echo "... src/1030_travel_plan.s"
+	@echo "... src/1043_is_it_a_binary_search_tree.o"
+	@echo "... src/1043_is_it_a_binary_search_tree.i"
+	@echo "... src/1043_is_it_a_binary_search_tree.s"
+	@echo "... src/1053_path_of_equal_weight.o"
+	@echo "... src/1053_path_of_equal_weight.i"
+	@echo "... src/1053_path_of_equal_weight.s"
+	@echo "... src/1060_are_they_equal.o"
+	@echo "... src/1060_are_they_equal.i"
+	@echo "... src/1060_are_they_equal.s"
+	@echo "... src/1064_complete_binary_search_tree.o"
+	@echo "... src/1064_complete_binary_search_tree.i"
+	@echo "... src/1064_complete_binary_search_tree.s"
+	@echo "... src/1066_root_of_avl_tree.o"
+	@echo "... src/1066_root_of_avl_tree.i"
+	@echo "... src/1066_root_of_avl_tree.s"
+	@echo "... src/1069_the_black_hole_of_numbers.o"
+	@echo "... src/1069_the_black_hole_of_numbers.i"
+	@echo "... src/1069_the_black_hole_of_numbers.s"
+	@echo "... src/1070_mooncake.o"
+	@echo "... src/1070_mooncake.i"
+	@echo "... src/1070_mooncake.s"
+	@echo "... src/1072_gas_station.o"
+	@echo "... src/1072_gas_station.i"
+	@echo "... src/1072_gas_station.s"
+	@echo "... src/1076_forwards_on_weibo.o"
+	@echo "... src/1076_forwards_on_weibo.i"
+	@echo "... src/1076_forwards_on_weibo.s"
+	@echo "... src/1079_total_sales_of_supply_chain.o"
+	@echo "... src/1079_total_sales_of_supply_chain.i"
+	@echo "... src/1079_total_sales_of_supply_chain.s"
+	@echo "... src/1086_tree_traversals_again.o"
+	@echo "... src/1086_tree_traversals_again.i"
+	@echo "... src/1086_tree_traversals_again.s"
+	@echo "... src/1087_all_roads_lead_to_rome.o"
+	@echo "... src/1087_all_roads_lead_to_rome.i"
+	@echo "... src/1087_all_roads_lead_to_rome.s"
+	@echo "... src/1090_highest_price_in_supply_chain.o"
+	@echo "... src/1090_highest_price_in_supply_chain.i"
+	@echo "... src/1090_highest_price_in_supply_chain.s"
+	@echo "... src/1094_the_largest_generation.o"
+	@echo "... src/1094_the_largest_generation.i"
+	@echo "... src/1094_the_largest_generation.s"
+	@echo "... src/1099_build_a_binary_search_tree.o"
+	@echo "... src/1099_build_a_binary_search_tree.i"
+	@echo "... src/1099_build_a_binary_search_tree.s"
+	@echo "... src/1102_invert_a_binary_tree.o"
+	@echo "... src/1102_invert_a_binary_tree.i"
+	@echo "... src/1102_invert_a_binary_tree.s"
+	@echo "... src/1107_social_clusters.o"
+	@echo "... src/1107_social_clusters.i"
+	@echo "... src/1107_social_clusters.s"
+	@echo "... test/main.o"
+	@echo "... test/main.i"
+	@echo "... test/main.s"
 .PHONY : help
 
 

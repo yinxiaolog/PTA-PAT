@@ -37,8 +37,8 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="PAT">
-				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/PAT" prefix_auto="0" extension_auto="0"/>
+			<Target title="1087_all_roads_lead_to_rome">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1087_all_roads_lead_to_rome" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -52,14 +52,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 PAT"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1087_all_roads_lead_to_rome"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="PAT/fast">
-				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/PAT" prefix_auto="0" extension_auto="0"/>
+			<Target title="1087_all_roads_lead_to_rome/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1087_all_roads_lead_to_rome" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -73,15 +73,1140 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 PAT/fast"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1087_all_roads_lead_to_rome/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1072_gas_station">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1072_gas_station" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1072_gas_station"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1072_gas_station/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1072_gas_station" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1072_gas_station/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1030_travel_plan">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1030_travel_plan" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1030_travel_plan"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1030_travel_plan/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1030_travel_plan" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1030_travel_plan/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1079_total_sales_of_supply_chain">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1079_total_sales_of_supply_chain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1079_total_sales_of_supply_chain"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1079_total_sales_of_supply_chain/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1079_total_sales_of_supply_chain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1079_total_sales_of_supply_chain/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1094_the_largest_generation.cc">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1094_the_largest_generation.cc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1094_the_largest_generation.cc"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1094_the_largest_generation.cc/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1094_the_largest_generation.cc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1094_the_largest_generation.cc/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1021_deepest_root">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1021_deepest_root" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1021_deepest_root"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1021_deepest_root/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1021_deepest_root" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1021_deepest_root/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1018_public_bike_management">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1018_public_bike_management" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1018_public_bike_management"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1018_public_bike_management/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1018_public_bike_management" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1018_public_bike_management/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1102_invert_a_binary_tree">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1102_invert_a_binary_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1102_invert_a_binary_tree"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1102_invert_a_binary_tree/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1102_invert_a_binary_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1102_invert_a_binary_tree/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1013_battle_over_cities">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1013_battle_over_cities" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1013_battle_over_cities"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1013_battle_over_cities/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1013_battle_over_cities" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1013_battle_over_cities/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1066_root_of_avl_tree">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1066_root_of_avl_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1066_root_of_avl_tree"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1066_root_of_avl_tree/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1066_root_of_avl_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1066_root_of_avl_tree/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1064_complete_binary_search_tree">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1064_complete_binary_search_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1064_complete_binary_search_tree"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1064_complete_binary_search_tree/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1064_complete_binary_search_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1064_complete_binary_search_tree/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1086_tree_traversals_again">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1086_tree_traversals_again" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1086_tree_traversals_again"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1086_tree_traversals_again/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1086_tree_traversals_again" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1086_tree_traversals_again/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1043_is_it_a_binary_search_tree">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1043_is_it_a_binary_search_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1043_is_it_a_binary_search_tree"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1043_is_it_a_binary_search_tree/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1043_is_it_a_binary_search_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1043_is_it_a_binary_search_tree/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1107_social_clusters">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1107_social_clusters" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1107_social_clusters"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1107_social_clusters/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1107_social_clusters" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1107_social_clusters/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1060_are_they_equal">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1060_are_they_equal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1060_are_they_equal"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1060_are_they_equal/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1060_are_they_equal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1060_are_they_equal/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1053_path_of_equal_weight">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1053_path_of_equal_weight" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1053_path_of_equal_weight"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1053_path_of_equal_weight/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1053_path_of_equal_weight" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1053_path_of_equal_weight/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1004_counting_leaves">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1004_counting_leaves" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1004_counting_leaves"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1004_counting_leaves/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1004_counting_leaves" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1004_counting_leaves/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1099_build_a_binary_search_tree">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1099_build_a_binary_search_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1099_build_a_binary_search_tree"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1099_build_a_binary_search_tree/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1099_build_a_binary_search_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1099_build_a_binary_search_tree/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1003_emergency">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1003_emergency" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1003_emergency"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1003_emergency/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1003_emergency" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1003_emergency/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1076_forwards_on_weibo">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1076_forwards_on_weibo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1076_forwards_on_weibo"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1076_forwards_on_weibo/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1076_forwards_on_weibo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1076_forwards_on_weibo/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1070_mooncake">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1070_mooncake" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1070_mooncake"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1070_mooncake/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1070_mooncake" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1070_mooncake/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1025_pat_ranking">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1025_pat_ranking" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1025_pat_ranking"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1025_pat_ranking/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1025_pat_ranking" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1025_pat_ranking/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1090_highest_price_in_supply_chain">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1090_highest_price_in_supply_chain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1090_highest_price_in_supply_chain"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1090_highest_price_in_supply_chain/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1090_highest_price_in_supply_chain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1090_highest_price_in_supply_chain/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1020_tree_traversals">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1020_tree_traversals" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1020_tree_traversals"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1020_tree_traversals/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1020_tree_traversals" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1020_tree_traversals/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1069_the_black_hole_of_numbers">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1069_the_black_hole_of_numbers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1069_the_black_hole_of_numbers"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1069_the_black_hole_of_numbers/fast">
+				<Option output="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/1069_the_black_hole_of_numbers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 1069_the_black_hole_of_numbers/fast"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/main.cpp">
-			<Option target="PAT"/>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1003_emergency.cc">
+			<Option target="1003_emergency"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1004_counting_leaves.cc">
+			<Option target="1004_counting_leaves"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1013_battle_over_cities.cc">
+			<Option target="1013_battle_over_cities"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1018_public_bike_management.cc">
+			<Option target="1018_public_bike_management"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1020_tree_traversals.cc">
+			<Option target="1020_tree_traversals"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1021_deepest_root.cc">
+			<Option target="1021_deepest_root"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1025_pat_ranking.cc">
+			<Option target="1025_pat_ranking"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1030_travel_plan.cc">
+			<Option target="1030_travel_plan"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1043_is_it_a_binary_search_tree.cc">
+			<Option target="1043_is_it_a_binary_search_tree"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1053_path_of_equal_weight.cc">
+			<Option target="1053_path_of_equal_weight"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1060_are_they_equal.cc">
+			<Option target="1060_are_they_equal"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1064_complete_binary_search_tree.cc">
+			<Option target="1064_complete_binary_search_tree"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1066_root_of_avl_tree.cc">
+			<Option target="1066_root_of_avl_tree"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1069_the_black_hole_of_numbers.cc">
+			<Option target="1069_the_black_hole_of_numbers"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1070_mooncake.cc">
+			<Option target="1070_mooncake"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1072_gas_station.cc">
+			<Option target="1072_gas_station"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1076_forwards_on_weibo.cc">
+			<Option target="1076_forwards_on_weibo"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1079_total_sales_of_supply_chain.cc">
+			<Option target="1079_total_sales_of_supply_chain"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1086_tree_traversals_again.cc">
+			<Option target="1086_tree_traversals_again"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1087_all_roads_lead_to_rome.cc">
+			<Option target="1087_all_roads_lead_to_rome"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1090_highest_price_in_supply_chain.cc">
+			<Option target="1090_highest_price_in_supply_chain"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1094_the_largest_generation.cc">
+			<Option target="1094_the_largest_generation.cc"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1099_build_a_binary_search_tree.cc">
+			<Option target="1099_build_a_binary_search_tree"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1102_invert_a_binary_tree.cc">
+			<Option target="1102_invert_a_binary_tree"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/src/1107_social_clusters.cc">
+			<Option target="1107_social_clusters"/>
+		</Unit>
+		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/test/main.cpp">
+			<Option target="test"/>
 		</Unit>
 		<Unit filename="/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

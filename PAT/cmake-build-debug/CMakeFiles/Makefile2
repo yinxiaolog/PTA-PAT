@@ -65,39 +65,964 @@ CMAKE_SOURCE_DIR = /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT
 CMAKE_BINARY_DIR = /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/PAT.dir
+# Target rules for target CMakeFiles/1087_all_roads_lead_to_rome.dir
 
 # All Build rule for target.
-CMakeFiles/PAT.dir/all:
-	$(MAKE) -f CMakeFiles/PAT.dir/build.make CMakeFiles/PAT.dir/depend
-	$(MAKE) -f CMakeFiles/PAT.dir/build.make CMakeFiles/PAT.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target PAT"
-.PHONY : CMakeFiles/PAT.dir/all
+CMakeFiles/1087_all_roads_lead_to_rome.dir/all:
+	$(MAKE) -f CMakeFiles/1087_all_roads_lead_to_rome.dir/build.make CMakeFiles/1087_all_roads_lead_to_rome.dir/depend
+	$(MAKE) -f CMakeFiles/1087_all_roads_lead_to_rome.dir/build.make CMakeFiles/1087_all_roads_lead_to_rome.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target 1087_all_roads_lead_to_rome"
+.PHONY : CMakeFiles/1087_all_roads_lead_to_rome.dir/all
 
 # Include target in all.
-all: CMakeFiles/PAT.dir/all
+all: CMakeFiles/1087_all_roads_lead_to_rome.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/PAT.dir/rule: cmake_check_build_system
+CMakeFiles/1087_all_roads_lead_to_rome.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/PAT.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1087_all_roads_lead_to_rome.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/PAT.dir/rule
+.PHONY : CMakeFiles/1087_all_roads_lead_to_rome.dir/rule
 
 # Convenience name for target.
-PAT: CMakeFiles/PAT.dir/rule
+1087_all_roads_lead_to_rome: CMakeFiles/1087_all_roads_lead_to_rome.dir/rule
 
-.PHONY : PAT
-
-# clean rule for target.
-CMakeFiles/PAT.dir/clean:
-	$(MAKE) -f CMakeFiles/PAT.dir/build.make CMakeFiles/PAT.dir/clean
-.PHONY : CMakeFiles/PAT.dir/clean
+.PHONY : 1087_all_roads_lead_to_rome
 
 # clean rule for target.
-clean: CMakeFiles/PAT.dir/clean
+CMakeFiles/1087_all_roads_lead_to_rome.dir/clean:
+	$(MAKE) -f CMakeFiles/1087_all_roads_lead_to_rome.dir/build.make CMakeFiles/1087_all_roads_lead_to_rome.dir/clean
+.PHONY : CMakeFiles/1087_all_roads_lead_to_rome.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1087_all_roads_lead_to_rome.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1072_gas_station.dir
+
+# All Build rule for target.
+CMakeFiles/1072_gas_station.dir/all:
+	$(MAKE) -f CMakeFiles/1072_gas_station.dir/build.make CMakeFiles/1072_gas_station.dir/depend
+	$(MAKE) -f CMakeFiles/1072_gas_station.dir/build.make CMakeFiles/1072_gas_station.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target 1072_gas_station"
+.PHONY : CMakeFiles/1072_gas_station.dir/all
+
+# Include target in all.
+all: CMakeFiles/1072_gas_station.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1072_gas_station.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1072_gas_station.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1072_gas_station.dir/rule
+
+# Convenience name for target.
+1072_gas_station: CMakeFiles/1072_gas_station.dir/rule
+
+.PHONY : 1072_gas_station
+
+# clean rule for target.
+CMakeFiles/1072_gas_station.dir/clean:
+	$(MAKE) -f CMakeFiles/1072_gas_station.dir/build.make CMakeFiles/1072_gas_station.dir/clean
+.PHONY : CMakeFiles/1072_gas_station.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1072_gas_station.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1030_travel_plan.dir
+
+# All Build rule for target.
+CMakeFiles/1030_travel_plan.dir/all:
+	$(MAKE) -f CMakeFiles/1030_travel_plan.dir/build.make CMakeFiles/1030_travel_plan.dir/depend
+	$(MAKE) -f CMakeFiles/1030_travel_plan.dir/build.make CMakeFiles/1030_travel_plan.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target 1030_travel_plan"
+.PHONY : CMakeFiles/1030_travel_plan.dir/all
+
+# Include target in all.
+all: CMakeFiles/1030_travel_plan.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1030_travel_plan.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1030_travel_plan.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1030_travel_plan.dir/rule
+
+# Convenience name for target.
+1030_travel_plan: CMakeFiles/1030_travel_plan.dir/rule
+
+.PHONY : 1030_travel_plan
+
+# clean rule for target.
+CMakeFiles/1030_travel_plan.dir/clean:
+	$(MAKE) -f CMakeFiles/1030_travel_plan.dir/build.make CMakeFiles/1030_travel_plan.dir/clean
+.PHONY : CMakeFiles/1030_travel_plan.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1030_travel_plan.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1079_total_sales_of_supply_chain.dir
+
+# All Build rule for target.
+CMakeFiles/1079_total_sales_of_supply_chain.dir/all:
+	$(MAKE) -f CMakeFiles/1079_total_sales_of_supply_chain.dir/build.make CMakeFiles/1079_total_sales_of_supply_chain.dir/depend
+	$(MAKE) -f CMakeFiles/1079_total_sales_of_supply_chain.dir/build.make CMakeFiles/1079_total_sales_of_supply_chain.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target 1079_total_sales_of_supply_chain"
+.PHONY : CMakeFiles/1079_total_sales_of_supply_chain.dir/all
+
+# Include target in all.
+all: CMakeFiles/1079_total_sales_of_supply_chain.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1079_total_sales_of_supply_chain.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1079_total_sales_of_supply_chain.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1079_total_sales_of_supply_chain.dir/rule
+
+# Convenience name for target.
+1079_total_sales_of_supply_chain: CMakeFiles/1079_total_sales_of_supply_chain.dir/rule
+
+.PHONY : 1079_total_sales_of_supply_chain
+
+# clean rule for target.
+CMakeFiles/1079_total_sales_of_supply_chain.dir/clean:
+	$(MAKE) -f CMakeFiles/1079_total_sales_of_supply_chain.dir/build.make CMakeFiles/1079_total_sales_of_supply_chain.dir/clean
+.PHONY : CMakeFiles/1079_total_sales_of_supply_chain.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1079_total_sales_of_supply_chain.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1094_the_largest_generation.cc.dir
+
+# All Build rule for target.
+CMakeFiles/1094_the_largest_generation.cc.dir/all:
+	$(MAKE) -f CMakeFiles/1094_the_largest_generation.cc.dir/build.make CMakeFiles/1094_the_largest_generation.cc.dir/depend
+	$(MAKE) -f CMakeFiles/1094_the_largest_generation.cc.dir/build.make CMakeFiles/1094_the_largest_generation.cc.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target 1094_the_largest_generation.cc"
+.PHONY : CMakeFiles/1094_the_largest_generation.cc.dir/all
+
+# Include target in all.
+all: CMakeFiles/1094_the_largest_generation.cc.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1094_the_largest_generation.cc.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1094_the_largest_generation.cc.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1094_the_largest_generation.cc.dir/rule
+
+# Convenience name for target.
+1094_the_largest_generation.cc: CMakeFiles/1094_the_largest_generation.cc.dir/rule
+
+.PHONY : 1094_the_largest_generation.cc
+
+# clean rule for target.
+CMakeFiles/1094_the_largest_generation.cc.dir/clean:
+	$(MAKE) -f CMakeFiles/1094_the_largest_generation.cc.dir/build.make CMakeFiles/1094_the_largest_generation.cc.dir/clean
+.PHONY : CMakeFiles/1094_the_largest_generation.cc.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1094_the_largest_generation.cc.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1021_deepest_root.dir
+
+# All Build rule for target.
+CMakeFiles/1021_deepest_root.dir/all:
+	$(MAKE) -f CMakeFiles/1021_deepest_root.dir/build.make CMakeFiles/1021_deepest_root.dir/depend
+	$(MAKE) -f CMakeFiles/1021_deepest_root.dir/build.make CMakeFiles/1021_deepest_root.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 1021_deepest_root"
+.PHONY : CMakeFiles/1021_deepest_root.dir/all
+
+# Include target in all.
+all: CMakeFiles/1021_deepest_root.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1021_deepest_root.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1021_deepest_root.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1021_deepest_root.dir/rule
+
+# Convenience name for target.
+1021_deepest_root: CMakeFiles/1021_deepest_root.dir/rule
+
+.PHONY : 1021_deepest_root
+
+# clean rule for target.
+CMakeFiles/1021_deepest_root.dir/clean:
+	$(MAKE) -f CMakeFiles/1021_deepest_root.dir/build.make CMakeFiles/1021_deepest_root.dir/clean
+.PHONY : CMakeFiles/1021_deepest_root.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1021_deepest_root.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1018_public_bike_management.dir
+
+# All Build rule for target.
+CMakeFiles/1018_public_bike_management.dir/all:
+	$(MAKE) -f CMakeFiles/1018_public_bike_management.dir/build.make CMakeFiles/1018_public_bike_management.dir/depend
+	$(MAKE) -f CMakeFiles/1018_public_bike_management.dir/build.make CMakeFiles/1018_public_bike_management.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 1018_public_bike_management"
+.PHONY : CMakeFiles/1018_public_bike_management.dir/all
+
+# Include target in all.
+all: CMakeFiles/1018_public_bike_management.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1018_public_bike_management.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1018_public_bike_management.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1018_public_bike_management.dir/rule
+
+# Convenience name for target.
+1018_public_bike_management: CMakeFiles/1018_public_bike_management.dir/rule
+
+.PHONY : 1018_public_bike_management
+
+# clean rule for target.
+CMakeFiles/1018_public_bike_management.dir/clean:
+	$(MAKE) -f CMakeFiles/1018_public_bike_management.dir/build.make CMakeFiles/1018_public_bike_management.dir/clean
+.PHONY : CMakeFiles/1018_public_bike_management.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1018_public_bike_management.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1102_invert_a_binary_tree.dir
+
+# All Build rule for target.
+CMakeFiles/1102_invert_a_binary_tree.dir/all:
+	$(MAKE) -f CMakeFiles/1102_invert_a_binary_tree.dir/build.make CMakeFiles/1102_invert_a_binary_tree.dir/depend
+	$(MAKE) -f CMakeFiles/1102_invert_a_binary_tree.dir/build.make CMakeFiles/1102_invert_a_binary_tree.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target 1102_invert_a_binary_tree"
+.PHONY : CMakeFiles/1102_invert_a_binary_tree.dir/all
+
+# Include target in all.
+all: CMakeFiles/1102_invert_a_binary_tree.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1102_invert_a_binary_tree.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1102_invert_a_binary_tree.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1102_invert_a_binary_tree.dir/rule
+
+# Convenience name for target.
+1102_invert_a_binary_tree: CMakeFiles/1102_invert_a_binary_tree.dir/rule
+
+.PHONY : 1102_invert_a_binary_tree
+
+# clean rule for target.
+CMakeFiles/1102_invert_a_binary_tree.dir/clean:
+	$(MAKE) -f CMakeFiles/1102_invert_a_binary_tree.dir/build.make CMakeFiles/1102_invert_a_binary_tree.dir/clean
+.PHONY : CMakeFiles/1102_invert_a_binary_tree.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1102_invert_a_binary_tree.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1013_battle_over_cities.dir
+
+# All Build rule for target.
+CMakeFiles/1013_battle_over_cities.dir/all:
+	$(MAKE) -f CMakeFiles/1013_battle_over_cities.dir/build.make CMakeFiles/1013_battle_over_cities.dir/depend
+	$(MAKE) -f CMakeFiles/1013_battle_over_cities.dir/build.make CMakeFiles/1013_battle_over_cities.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 1013_battle_over_cities"
+.PHONY : CMakeFiles/1013_battle_over_cities.dir/all
+
+# Include target in all.
+all: CMakeFiles/1013_battle_over_cities.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1013_battle_over_cities.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1013_battle_over_cities.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1013_battle_over_cities.dir/rule
+
+# Convenience name for target.
+1013_battle_over_cities: CMakeFiles/1013_battle_over_cities.dir/rule
+
+.PHONY : 1013_battle_over_cities
+
+# clean rule for target.
+CMakeFiles/1013_battle_over_cities.dir/clean:
+	$(MAKE) -f CMakeFiles/1013_battle_over_cities.dir/build.make CMakeFiles/1013_battle_over_cities.dir/clean
+.PHONY : CMakeFiles/1013_battle_over_cities.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1013_battle_over_cities.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1066_root_of_avl_tree.dir
+
+# All Build rule for target.
+CMakeFiles/1066_root_of_avl_tree.dir/all:
+	$(MAKE) -f CMakeFiles/1066_root_of_avl_tree.dir/build.make CMakeFiles/1066_root_of_avl_tree.dir/depend
+	$(MAKE) -f CMakeFiles/1066_root_of_avl_tree.dir/build.make CMakeFiles/1066_root_of_avl_tree.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target 1066_root_of_avl_tree"
+.PHONY : CMakeFiles/1066_root_of_avl_tree.dir/all
+
+# Include target in all.
+all: CMakeFiles/1066_root_of_avl_tree.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1066_root_of_avl_tree.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1066_root_of_avl_tree.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1066_root_of_avl_tree.dir/rule
+
+# Convenience name for target.
+1066_root_of_avl_tree: CMakeFiles/1066_root_of_avl_tree.dir/rule
+
+.PHONY : 1066_root_of_avl_tree
+
+# clean rule for target.
+CMakeFiles/1066_root_of_avl_tree.dir/clean:
+	$(MAKE) -f CMakeFiles/1066_root_of_avl_tree.dir/build.make CMakeFiles/1066_root_of_avl_tree.dir/clean
+.PHONY : CMakeFiles/1066_root_of_avl_tree.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1066_root_of_avl_tree.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/test.dir
+
+# All Build rule for target.
+CMakeFiles/test.dir/all:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/depend
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target test"
+.PHONY : CMakeFiles/test.dir/all
+
+# Include target in all.
+all: CMakeFiles/test.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/test.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/test.dir/rule
+
+# Convenience name for target.
+test: CMakeFiles/test.dir/rule
+
+.PHONY : test
+
+# clean rule for target.
+CMakeFiles/test.dir/clean:
+	$(MAKE) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/clean
+.PHONY : CMakeFiles/test.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/test.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1064_complete_binary_search_tree.dir
+
+# All Build rule for target.
+CMakeFiles/1064_complete_binary_search_tree.dir/all:
+	$(MAKE) -f CMakeFiles/1064_complete_binary_search_tree.dir/build.make CMakeFiles/1064_complete_binary_search_tree.dir/depend
+	$(MAKE) -f CMakeFiles/1064_complete_binary_search_tree.dir/build.make CMakeFiles/1064_complete_binary_search_tree.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target 1064_complete_binary_search_tree"
+.PHONY : CMakeFiles/1064_complete_binary_search_tree.dir/all
+
+# Include target in all.
+all: CMakeFiles/1064_complete_binary_search_tree.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1064_complete_binary_search_tree.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1064_complete_binary_search_tree.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1064_complete_binary_search_tree.dir/rule
+
+# Convenience name for target.
+1064_complete_binary_search_tree: CMakeFiles/1064_complete_binary_search_tree.dir/rule
+
+.PHONY : 1064_complete_binary_search_tree
+
+# clean rule for target.
+CMakeFiles/1064_complete_binary_search_tree.dir/clean:
+	$(MAKE) -f CMakeFiles/1064_complete_binary_search_tree.dir/build.make CMakeFiles/1064_complete_binary_search_tree.dir/clean
+.PHONY : CMakeFiles/1064_complete_binary_search_tree.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1064_complete_binary_search_tree.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1086_tree_traversals_again.dir
+
+# All Build rule for target.
+CMakeFiles/1086_tree_traversals_again.dir/all:
+	$(MAKE) -f CMakeFiles/1086_tree_traversals_again.dir/build.make CMakeFiles/1086_tree_traversals_again.dir/depend
+	$(MAKE) -f CMakeFiles/1086_tree_traversals_again.dir/build.make CMakeFiles/1086_tree_traversals_again.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target 1086_tree_traversals_again"
+.PHONY : CMakeFiles/1086_tree_traversals_again.dir/all
+
+# Include target in all.
+all: CMakeFiles/1086_tree_traversals_again.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1086_tree_traversals_again.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1086_tree_traversals_again.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1086_tree_traversals_again.dir/rule
+
+# Convenience name for target.
+1086_tree_traversals_again: CMakeFiles/1086_tree_traversals_again.dir/rule
+
+.PHONY : 1086_tree_traversals_again
+
+# clean rule for target.
+CMakeFiles/1086_tree_traversals_again.dir/clean:
+	$(MAKE) -f CMakeFiles/1086_tree_traversals_again.dir/build.make CMakeFiles/1086_tree_traversals_again.dir/clean
+.PHONY : CMakeFiles/1086_tree_traversals_again.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1086_tree_traversals_again.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1043_is_it_a_binary_search_tree.dir
+
+# All Build rule for target.
+CMakeFiles/1043_is_it_a_binary_search_tree.dir/all:
+	$(MAKE) -f CMakeFiles/1043_is_it_a_binary_search_tree.dir/build.make CMakeFiles/1043_is_it_a_binary_search_tree.dir/depend
+	$(MAKE) -f CMakeFiles/1043_is_it_a_binary_search_tree.dir/build.make CMakeFiles/1043_is_it_a_binary_search_tree.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target 1043_is_it_a_binary_search_tree"
+.PHONY : CMakeFiles/1043_is_it_a_binary_search_tree.dir/all
+
+# Include target in all.
+all: CMakeFiles/1043_is_it_a_binary_search_tree.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1043_is_it_a_binary_search_tree.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1043_is_it_a_binary_search_tree.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1043_is_it_a_binary_search_tree.dir/rule
+
+# Convenience name for target.
+1043_is_it_a_binary_search_tree: CMakeFiles/1043_is_it_a_binary_search_tree.dir/rule
+
+.PHONY : 1043_is_it_a_binary_search_tree
+
+# clean rule for target.
+CMakeFiles/1043_is_it_a_binary_search_tree.dir/clean:
+	$(MAKE) -f CMakeFiles/1043_is_it_a_binary_search_tree.dir/build.make CMakeFiles/1043_is_it_a_binary_search_tree.dir/clean
+.PHONY : CMakeFiles/1043_is_it_a_binary_search_tree.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1043_is_it_a_binary_search_tree.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1107_social_clusters.dir
+
+# All Build rule for target.
+CMakeFiles/1107_social_clusters.dir/all:
+	$(MAKE) -f CMakeFiles/1107_social_clusters.dir/build.make CMakeFiles/1107_social_clusters.dir/depend
+	$(MAKE) -f CMakeFiles/1107_social_clusters.dir/build.make CMakeFiles/1107_social_clusters.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target 1107_social_clusters"
+.PHONY : CMakeFiles/1107_social_clusters.dir/all
+
+# Include target in all.
+all: CMakeFiles/1107_social_clusters.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1107_social_clusters.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1107_social_clusters.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1107_social_clusters.dir/rule
+
+# Convenience name for target.
+1107_social_clusters: CMakeFiles/1107_social_clusters.dir/rule
+
+.PHONY : 1107_social_clusters
+
+# clean rule for target.
+CMakeFiles/1107_social_clusters.dir/clean:
+	$(MAKE) -f CMakeFiles/1107_social_clusters.dir/build.make CMakeFiles/1107_social_clusters.dir/clean
+.PHONY : CMakeFiles/1107_social_clusters.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1107_social_clusters.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1060_are_they_equal.dir
+
+# All Build rule for target.
+CMakeFiles/1060_are_they_equal.dir/all:
+	$(MAKE) -f CMakeFiles/1060_are_they_equal.dir/build.make CMakeFiles/1060_are_they_equal.dir/depend
+	$(MAKE) -f CMakeFiles/1060_are_they_equal.dir/build.make CMakeFiles/1060_are_they_equal.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target 1060_are_they_equal"
+.PHONY : CMakeFiles/1060_are_they_equal.dir/all
+
+# Include target in all.
+all: CMakeFiles/1060_are_they_equal.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1060_are_they_equal.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1060_are_they_equal.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1060_are_they_equal.dir/rule
+
+# Convenience name for target.
+1060_are_they_equal: CMakeFiles/1060_are_they_equal.dir/rule
+
+.PHONY : 1060_are_they_equal
+
+# clean rule for target.
+CMakeFiles/1060_are_they_equal.dir/clean:
+	$(MAKE) -f CMakeFiles/1060_are_they_equal.dir/build.make CMakeFiles/1060_are_they_equal.dir/clean
+.PHONY : CMakeFiles/1060_are_they_equal.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1060_are_they_equal.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1053_path_of_equal_weight.dir
+
+# All Build rule for target.
+CMakeFiles/1053_path_of_equal_weight.dir/all:
+	$(MAKE) -f CMakeFiles/1053_path_of_equal_weight.dir/build.make CMakeFiles/1053_path_of_equal_weight.dir/depend
+	$(MAKE) -f CMakeFiles/1053_path_of_equal_weight.dir/build.make CMakeFiles/1053_path_of_equal_weight.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 1053_path_of_equal_weight"
+.PHONY : CMakeFiles/1053_path_of_equal_weight.dir/all
+
+# Include target in all.
+all: CMakeFiles/1053_path_of_equal_weight.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1053_path_of_equal_weight.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1053_path_of_equal_weight.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1053_path_of_equal_weight.dir/rule
+
+# Convenience name for target.
+1053_path_of_equal_weight: CMakeFiles/1053_path_of_equal_weight.dir/rule
+
+.PHONY : 1053_path_of_equal_weight
+
+# clean rule for target.
+CMakeFiles/1053_path_of_equal_weight.dir/clean:
+	$(MAKE) -f CMakeFiles/1053_path_of_equal_weight.dir/build.make CMakeFiles/1053_path_of_equal_weight.dir/clean
+.PHONY : CMakeFiles/1053_path_of_equal_weight.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1053_path_of_equal_weight.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1004_counting_leaves.dir
+
+# All Build rule for target.
+CMakeFiles/1004_counting_leaves.dir/all:
+	$(MAKE) -f CMakeFiles/1004_counting_leaves.dir/build.make CMakeFiles/1004_counting_leaves.dir/depend
+	$(MAKE) -f CMakeFiles/1004_counting_leaves.dir/build.make CMakeFiles/1004_counting_leaves.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 1004_counting_leaves"
+.PHONY : CMakeFiles/1004_counting_leaves.dir/all
+
+# Include target in all.
+all: CMakeFiles/1004_counting_leaves.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1004_counting_leaves.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1004_counting_leaves.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1004_counting_leaves.dir/rule
+
+# Convenience name for target.
+1004_counting_leaves: CMakeFiles/1004_counting_leaves.dir/rule
+
+.PHONY : 1004_counting_leaves
+
+# clean rule for target.
+CMakeFiles/1004_counting_leaves.dir/clean:
+	$(MAKE) -f CMakeFiles/1004_counting_leaves.dir/build.make CMakeFiles/1004_counting_leaves.dir/clean
+.PHONY : CMakeFiles/1004_counting_leaves.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1004_counting_leaves.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1099_build_a_binary_search_tree.dir
+
+# All Build rule for target.
+CMakeFiles/1099_build_a_binary_search_tree.dir/all:
+	$(MAKE) -f CMakeFiles/1099_build_a_binary_search_tree.dir/build.make CMakeFiles/1099_build_a_binary_search_tree.dir/depend
+	$(MAKE) -f CMakeFiles/1099_build_a_binary_search_tree.dir/build.make CMakeFiles/1099_build_a_binary_search_tree.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target 1099_build_a_binary_search_tree"
+.PHONY : CMakeFiles/1099_build_a_binary_search_tree.dir/all
+
+# Include target in all.
+all: CMakeFiles/1099_build_a_binary_search_tree.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1099_build_a_binary_search_tree.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1099_build_a_binary_search_tree.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1099_build_a_binary_search_tree.dir/rule
+
+# Convenience name for target.
+1099_build_a_binary_search_tree: CMakeFiles/1099_build_a_binary_search_tree.dir/rule
+
+.PHONY : 1099_build_a_binary_search_tree
+
+# clean rule for target.
+CMakeFiles/1099_build_a_binary_search_tree.dir/clean:
+	$(MAKE) -f CMakeFiles/1099_build_a_binary_search_tree.dir/build.make CMakeFiles/1099_build_a_binary_search_tree.dir/clean
+.PHONY : CMakeFiles/1099_build_a_binary_search_tree.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1099_build_a_binary_search_tree.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1003_emergency.dir
+
+# All Build rule for target.
+CMakeFiles/1003_emergency.dir/all:
+	$(MAKE) -f CMakeFiles/1003_emergency.dir/build.make CMakeFiles/1003_emergency.dir/depend
+	$(MAKE) -f CMakeFiles/1003_emergency.dir/build.make CMakeFiles/1003_emergency.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 1003_emergency"
+.PHONY : CMakeFiles/1003_emergency.dir/all
+
+# Include target in all.
+all: CMakeFiles/1003_emergency.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1003_emergency.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1003_emergency.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1003_emergency.dir/rule
+
+# Convenience name for target.
+1003_emergency: CMakeFiles/1003_emergency.dir/rule
+
+.PHONY : 1003_emergency
+
+# clean rule for target.
+CMakeFiles/1003_emergency.dir/clean:
+	$(MAKE) -f CMakeFiles/1003_emergency.dir/build.make CMakeFiles/1003_emergency.dir/clean
+.PHONY : CMakeFiles/1003_emergency.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1003_emergency.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1076_forwards_on_weibo.dir
+
+# All Build rule for target.
+CMakeFiles/1076_forwards_on_weibo.dir/all:
+	$(MAKE) -f CMakeFiles/1076_forwards_on_weibo.dir/build.make CMakeFiles/1076_forwards_on_weibo.dir/depend
+	$(MAKE) -f CMakeFiles/1076_forwards_on_weibo.dir/build.make CMakeFiles/1076_forwards_on_weibo.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target 1076_forwards_on_weibo"
+.PHONY : CMakeFiles/1076_forwards_on_weibo.dir/all
+
+# Include target in all.
+all: CMakeFiles/1076_forwards_on_weibo.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1076_forwards_on_weibo.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1076_forwards_on_weibo.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1076_forwards_on_weibo.dir/rule
+
+# Convenience name for target.
+1076_forwards_on_weibo: CMakeFiles/1076_forwards_on_weibo.dir/rule
+
+.PHONY : 1076_forwards_on_weibo
+
+# clean rule for target.
+CMakeFiles/1076_forwards_on_weibo.dir/clean:
+	$(MAKE) -f CMakeFiles/1076_forwards_on_weibo.dir/build.make CMakeFiles/1076_forwards_on_weibo.dir/clean
+.PHONY : CMakeFiles/1076_forwards_on_weibo.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1076_forwards_on_weibo.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1070_mooncake.dir
+
+# All Build rule for target.
+CMakeFiles/1070_mooncake.dir/all:
+	$(MAKE) -f CMakeFiles/1070_mooncake.dir/build.make CMakeFiles/1070_mooncake.dir/depend
+	$(MAKE) -f CMakeFiles/1070_mooncake.dir/build.make CMakeFiles/1070_mooncake.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target 1070_mooncake"
+.PHONY : CMakeFiles/1070_mooncake.dir/all
+
+# Include target in all.
+all: CMakeFiles/1070_mooncake.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1070_mooncake.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1070_mooncake.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1070_mooncake.dir/rule
+
+# Convenience name for target.
+1070_mooncake: CMakeFiles/1070_mooncake.dir/rule
+
+.PHONY : 1070_mooncake
+
+# clean rule for target.
+CMakeFiles/1070_mooncake.dir/clean:
+	$(MAKE) -f CMakeFiles/1070_mooncake.dir/build.make CMakeFiles/1070_mooncake.dir/clean
+.PHONY : CMakeFiles/1070_mooncake.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1070_mooncake.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1025_pat_ranking.dir
+
+# All Build rule for target.
+CMakeFiles/1025_pat_ranking.dir/all:
+	$(MAKE) -f CMakeFiles/1025_pat_ranking.dir/build.make CMakeFiles/1025_pat_ranking.dir/depend
+	$(MAKE) -f CMakeFiles/1025_pat_ranking.dir/build.make CMakeFiles/1025_pat_ranking.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 1025_pat_ranking"
+.PHONY : CMakeFiles/1025_pat_ranking.dir/all
+
+# Include target in all.
+all: CMakeFiles/1025_pat_ranking.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1025_pat_ranking.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1025_pat_ranking.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1025_pat_ranking.dir/rule
+
+# Convenience name for target.
+1025_pat_ranking: CMakeFiles/1025_pat_ranking.dir/rule
+
+.PHONY : 1025_pat_ranking
+
+# clean rule for target.
+CMakeFiles/1025_pat_ranking.dir/clean:
+	$(MAKE) -f CMakeFiles/1025_pat_ranking.dir/build.make CMakeFiles/1025_pat_ranking.dir/clean
+.PHONY : CMakeFiles/1025_pat_ranking.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1025_pat_ranking.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1090_highest_price_in_supply_chain.dir
+
+# All Build rule for target.
+CMakeFiles/1090_highest_price_in_supply_chain.dir/all:
+	$(MAKE) -f CMakeFiles/1090_highest_price_in_supply_chain.dir/build.make CMakeFiles/1090_highest_price_in_supply_chain.dir/depend
+	$(MAKE) -f CMakeFiles/1090_highest_price_in_supply_chain.dir/build.make CMakeFiles/1090_highest_price_in_supply_chain.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target 1090_highest_price_in_supply_chain"
+.PHONY : CMakeFiles/1090_highest_price_in_supply_chain.dir/all
+
+# Include target in all.
+all: CMakeFiles/1090_highest_price_in_supply_chain.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1090_highest_price_in_supply_chain.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1090_highest_price_in_supply_chain.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1090_highest_price_in_supply_chain.dir/rule
+
+# Convenience name for target.
+1090_highest_price_in_supply_chain: CMakeFiles/1090_highest_price_in_supply_chain.dir/rule
+
+.PHONY : 1090_highest_price_in_supply_chain
+
+# clean rule for target.
+CMakeFiles/1090_highest_price_in_supply_chain.dir/clean:
+	$(MAKE) -f CMakeFiles/1090_highest_price_in_supply_chain.dir/build.make CMakeFiles/1090_highest_price_in_supply_chain.dir/clean
+.PHONY : CMakeFiles/1090_highest_price_in_supply_chain.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1090_highest_price_in_supply_chain.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1020_tree_traversals.dir
+
+# All Build rule for target.
+CMakeFiles/1020_tree_traversals.dir/all:
+	$(MAKE) -f CMakeFiles/1020_tree_traversals.dir/build.make CMakeFiles/1020_tree_traversals.dir/depend
+	$(MAKE) -f CMakeFiles/1020_tree_traversals.dir/build.make CMakeFiles/1020_tree_traversals.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 1020_tree_traversals"
+.PHONY : CMakeFiles/1020_tree_traversals.dir/all
+
+# Include target in all.
+all: CMakeFiles/1020_tree_traversals.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1020_tree_traversals.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1020_tree_traversals.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1020_tree_traversals.dir/rule
+
+# Convenience name for target.
+1020_tree_traversals: CMakeFiles/1020_tree_traversals.dir/rule
+
+.PHONY : 1020_tree_traversals
+
+# clean rule for target.
+CMakeFiles/1020_tree_traversals.dir/clean:
+	$(MAKE) -f CMakeFiles/1020_tree_traversals.dir/build.make CMakeFiles/1020_tree_traversals.dir/clean
+.PHONY : CMakeFiles/1020_tree_traversals.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1020_tree_traversals.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1069_the_black_hole_of_numbers.dir
+
+# All Build rule for target.
+CMakeFiles/1069_the_black_hole_of_numbers.dir/all:
+	$(MAKE) -f CMakeFiles/1069_the_black_hole_of_numbers.dir/build.make CMakeFiles/1069_the_black_hole_of_numbers.dir/depend
+	$(MAKE) -f CMakeFiles/1069_the_black_hole_of_numbers.dir/build.make CMakeFiles/1069_the_black_hole_of_numbers.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target 1069_the_black_hole_of_numbers"
+.PHONY : CMakeFiles/1069_the_black_hole_of_numbers.dir/all
+
+# Include target in all.
+all: CMakeFiles/1069_the_black_hole_of_numbers.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1069_the_black_hole_of_numbers.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1069_the_black_hole_of_numbers.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/yinxiaolong/CLionProjects/gitRepo/PTA-PAT/PAT/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1069_the_black_hole_of_numbers.dir/rule
+
+# Convenience name for target.
+1069_the_black_hole_of_numbers: CMakeFiles/1069_the_black_hole_of_numbers.dir/rule
+
+.PHONY : 1069_the_black_hole_of_numbers
+
+# clean rule for target.
+CMakeFiles/1069_the_black_hole_of_numbers.dir/clean:
+	$(MAKE) -f CMakeFiles/1069_the_black_hole_of_numbers.dir/build.make CMakeFiles/1069_the_black_hole_of_numbers.dir/clean
+.PHONY : CMakeFiles/1069_the_black_hole_of_numbers.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1069_the_black_hole_of_numbers.dir/clean
 
 .PHONY : clean
 
