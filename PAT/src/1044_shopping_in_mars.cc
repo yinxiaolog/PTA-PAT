@@ -55,4 +55,6 @@ int main() {
     for (auto p : ans) {
         cout << p.first << '-' << p.second << endl;
     }
+
+    return 0;
 }
