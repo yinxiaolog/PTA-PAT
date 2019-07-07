@@ -24,6 +24,9 @@ int BinarySearch(int i) {
 }
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
     cin >> N >> M;
     sum[0] = 0;
     for (int i = 1; i <= N; i++) {
