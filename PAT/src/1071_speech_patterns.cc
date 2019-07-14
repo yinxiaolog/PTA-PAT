@@ -9,7 +9,7 @@ int main() {
     string word;
     getline(cin, word);
     transform(word.begin(), word.end(), word.begin(), ::tolower);
-    //cout << word << endl;
+
     map<string, int> string2int;
     for (int i = 0; i < word.length();) {
         string str;
