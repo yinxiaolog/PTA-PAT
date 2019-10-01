@@ -34,19 +34,10 @@ void Dfs(int root) {
 }
 
 bool isMaxHeap() {
-    for (int i = 0; i < N; ++i) {
-        int left = 2 * i + 1;
-        int right = 2 * i + 2;
-        if (left < N && right < N) {
-            if (heap[i] < heap[left] || heap[i] < heap[right]) {
-                return false;
-            }
-        }
-
-        if (left < N && right >= N) {
-            if (heap[i] < heap[left]) {
-                return false;
-            }
+    for (int i = 1; i < N; ++i) {
+        int father = (i - 1) / 2;
+        if (heap[i] > heap[father]) {
+            return false;
         }
     }
 
@@ -55,18 +46,9 @@ bool isMaxHeap() {
 
 bool isMinHeap() {
     for (int i = 0; i < N; ++i) {
-        int left = 2 * i + 1;
-        int right = 2 * i + 2;
-        if (left < N && right < N) {
-            if (heap[i] > heap[left] || heap[i] > heap[right]) {
-                return false;
-            }
-        }
-
-        if (left < N && right >= N) {
-            if (heap[i] > heap[left]) {
-                return false;
-            }
+        int father = (i - 1) / 2;
+        if (heap[i] < heap[father]) {
+            return false;
         }
     }
 
